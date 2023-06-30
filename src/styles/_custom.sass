@@ -1,19 +1,259 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 4s ease-in-out infinite alternate
+    position: absolute
+    top: 65%
+    right: 88%
+    width: 27px
+
+  &-2
+    animation: float1 5s ease-in-out infinite alternate
+    position: absolute
+    top: 65%
+    right: 75%
+    width: 27px
+  &-3
+    animation: float2 3.5s ease-in-out infinite alternate
     position: absolute
     top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    right: 80%
+    width: 90px
+  &-4
+    animation: scale 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 25%
+    right: 25%
+    width: 80px
+  &-5
+    animation: float3 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 40%
+    right: 20%
+    width: 80px
+  &-6
+    animation: float2 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 60%
+    right: 20%
+    width: 90px
 
 @keyframes float1
+  0%
+    transform: translateY(30px)
+
+  100%
+    transform: translateY(0px)
+
+@keyframes float2
+  0%
+    transform: translateX(20px)
+
+  100%
+    transform: translateX(0px)
+
+@keyframes float3
   0%
     transform: translateY(20px)
 
   100%
     transform: translateY(0px)
+
+@keyframes scale
+  0%
+    transform: scale(1)
+
+  100%
+    transform: scale(1.5)   
+
+.banner-principal__img
+  width: 450px !important
+  padding-bottom: 0rem !important
+  padding-top: 5rem !important
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/banner-interno.png") !important
+
+/// ESTILOS GLOBALES -----------------------------------------------------------------------------------------------------
+
+// TARJETAS ------------------------------------------------------------
+
+.tarjeta-azul
+  background-color: #E4FCFF
+
+.tarjeta-amarilla
+  background-color: #FFEBCC
+
+
+/// ESTILOS TEMA 1 --------------------------------------------------------------------------------------------------------
+
+
+// PASOS B -----------------------------------------------------------------
+
+.pasos-b__header__item--before .pasos-b__header__item__dot 
+  border-color: #7E5EE3
+  background-color: #00BCD4
+
+.pasos-b__header__item--before .pasos-b__header__item__line-container:before, .pasos-b__header__item--before .pasos-b__header__item__line-container:after 
+    background-color: #7E5EE3
+
+.pasos-b__header__item--active .pasos-b__header__item__line-container:before
+    background-color: #7E5EE3
+
+.pasos-b.color-acento-contenido .pasos-b__header__item--active .pasos-b__header__item__dot
+  border-color: #00BCD4
+  background-color: #C3F8FF
+
+.pasos-b.color-acento-contenido .pasos-b__header__item--active .pasos-b__header__item__dot span 
+    color: #12263F
+
+
+/// ESTILOS TEMA 2 --------------------------------------------------------------------------------------------------------
+
+
+// background titulo ------------------------------------------
+
+.bg-titulo1
+  background-image: url("../assets/curso/temas/tema2/bg-titulo1.png")
+  background-repeat: no-repeat
+  background-size: 60% 90%
+  @media (max-width: 500px)
+    background-size: 100% 100%
+
+.bg-titulo2
+  background-image: url("../assets/curso/temas/tema2/bg-titulo2.png")
+  background-repeat: no-repeat
+  background-size: 30% 90%
+  @media (max-width: 500px)
+    background-size: 100% 100%
+
+
+// tarjetas ---------------------------------------
+
+.tarjeta-numerada
+  border: solid 3px
+  border-radius: 20px
+  position: relative
+  margin-left: 15px
+  height: 400px
+
+.tarjeta-azul2
+  background-color: #E6F7FE
+
+
+/// ESTILOS TEMA 3 --------------------------------------------------------------------------------------------------------
+
+// tarjetas ---------------------------------------
+
+.tarjeta-azul3
+  background-color: #DCFBFF
+
+.tarjeta-morada
+  background-color: #E5DFF9
+
+
+
+// background titulo ------------------------------------------
+
+.bg-titulo3
+  background-image: url("../assets/curso/temas/tema3/bg-titulo3.png")
+  background-repeat: no-repeat
+  background-size: 20% 90%
+  @media (max-width: 500px)
+    background-size: 100% 100%
+
+.bg-titulo4
+  background-image: url("../assets/curso/temas/tema3/bg-titulo4.png")
+  background-repeat: no-repeat
+  background-size: 40% 90%
+  @media (max-width: 500px)
+    background-size: 100% 100%
+
+
+// cajon color ----------------------------------------
+
+.cajon.color-secundario
+  background-color: #E5DFF9
+
+// VIÑETAS --------------------------------------------
+
+.color-vineta1
+  color: #7E5EE3 !important
+  font-size: 12px
+  margin-top: 3px
+
+.color-vineta2
+  color: #7E5EE3 !important
+
+
+  // IMAGENES ------------------------------------------
+
+.img6-tm3
+  position: relative
+  margin-bottom: -24px
+
+// LISTADO ---------------------------------------------
+
+.fa-ul2
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &::before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem
+
+
+// SLYDER ----------------------------------------------
+
+.slyder-a__bullets__item--active
+  background-color: #7E5EE3
+  border-color: #7E5EE3
+  opacity: 1
+
+
+/// ESTILOS TEMA 4 -------------------------------------------------------------------------------------
+
+
+
+.bg-fondo
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: -250px
+    width: calc( 100% + 96px )
+    height: 100%       
+    background-image: url('../assets/curso/temas/tema4/bg-fondo.png')
+    background-size: 100% auto  
+    background-repeat: round
+    background-position: center top
+    @media (max-width: 500px)
+      background-repeat: space
+
+
+
+// tarjetas ---------------------------
+
+.tarjeta-azul3
+  background-color: #CDEDFC
+  position: relative
+  z-index: 1
+
+// IMAGENES ---------------------
+
+.img2-tm4
+  position: relative
+  z-index: 1
+
+
+.img3-tm4
+  max-width: 200%
+  width: 120%
+  position: relative
+  right: 20%
+  @media (max-width: 500px)
+    width: 100%
+    right: 0%
