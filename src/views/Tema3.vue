@@ -64,6 +64,8 @@
             figure
               img(src='@/assets/curso/temas/tema3/img4.svg', alt='alt') 
 
+    .row.mb-5
+      p Por otra parte, existen elementos importantes dentro de la visita médica y del perfil del visitador médico que es importante tener claro:
 
     .row.bg-titulo3.align-items-center.p-1.mb-5
       h3.my-3 La visita médica

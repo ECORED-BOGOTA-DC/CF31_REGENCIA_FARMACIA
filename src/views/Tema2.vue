@@ -7,6 +7,9 @@
         span 2
       h1 Presupuesto de <i>marketing</i>
 
+    .row.mb-5
+      p La ejecución de las estrategias de mercadeo requiere recursos económicos que deben estar claros y detallados, y a ese detalle es al que se llama presupuesto de marketing. La determinación el presupuesto se puede ver intermediada por factores como:
+
     .row.justify-content-center.align-items-center.mb-5
       TabsB.color-primario
         .py-4.py-md-5(titulo="Estrategia de la organización" :icono="require('@/assets/curso/temas/tema2/img1.svg')")
@@ -126,11 +129,11 @@
               <th colspan="5">Presupuesto de <i>marketing</i></th>
           tbody
             tr(style='background-color: #E5DFF9')
-              th.text-center Ítem
-              th.text-center Concepto
-              th.text-center Valor
-              th.text-center Anexo No.
-              th.text-center % de incidencia
+              <th width="10% !important">Ítem</th>
+              <th style="width:10%">Concepto</th>
+              <th style="width:10%">Valor</th>
+              <th style="width:10%">Anexo No.</th>
+              <th style="width:10%">% de incidencia</th>
             tr
               td 1
               td Estudio de mercado de farmacias
