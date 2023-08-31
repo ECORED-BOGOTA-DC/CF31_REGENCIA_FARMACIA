@@ -99,12 +99,12 @@
           p La tasa de conversión se mide mediante la siguiente fórmula:
 
           figure.mb-3
-            img(src='@/assets/curso/temas/tema9/img8.svg', alt='alt')
+            img(src='@/assets/curso/temas/tema9/img9.svg', alt='alt')
 
           b Ejemplo:
 
           figure.mt-3
-            img(src='@/assets/curso/temas/tema9/img9.svg', alt='alt')               
+            img(src='@/assets/curso/temas/tema9/img8.svg', alt='alt')               
 
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
         .tarjeta--boton.color-primario.p-4

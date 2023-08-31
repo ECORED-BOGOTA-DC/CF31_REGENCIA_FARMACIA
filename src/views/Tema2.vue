@@ -135,22 +135,28 @@
               <th style="width:10%">Anexo No.</th>
               <th style="width:10%">% de incidencia</th>
             tr
-              td 1
+              td.text-center <b>1</b>
               td Estudio de mercado de farmacias
               td 650,00
               td 5,01
               td 2%
             tr
-              td 2 
+              td.text-center <b>2</b>
               td Estrategia de <i>push</i>para farmacias
               td 5.800,00
               td 5,02
               td 14%
+            tr
+              td.text-center <b>3</b>
+              td Grupos focales y reuniones con médicos
+              td 1.150,00
+              td 5,03
+              td 3%
             tr.text-center(style='background-color: #E5DFF9')
               <th colspan="4">Precio</th>
               <th colspan="1">0%</th>
             tr
-              td 4 
+              td.text-center <b>4</b>
               td Elaboración de cajas para el registro de precios
               td 110,00
               td 5,04
@@ -159,44 +165,44 @@
               <th colspan="4">Comunicación</th>
               <th colspan="1">72%</th>
             tr
-              td 5
+              td.text-center <b>5</b>
               td Reunión de prelanzamiento del producto
               td 1.675,00
               td 5,05
               td 4%
             tr
-              td 6
+              td.text-center <b>6</b>
               td Evento de lanzamiento del producto
               td 6.200,00
               td 5,06
               td 15%
             tr
-              td 7
+              td.text-center <b>7</b>
               td Actividades de notoriedad y seguimiento
               td 750,00
               td 5,07
               td 2%
             tr
-              td 8
+              td.text-center <b>8</b>
               td Entrega de material especializado en visita médica
               td 4.320,00
               td 5,08
               td 11%
             tr
-              td 9
+              td.text-center <b>9</b>
               td Reuniones con sociedades médicas, auspicios, congresos y cursos
               td 10.400,00
               td 5,09
               td 25%
             tr
-              td 10
+              td.text-center <b>10</b>
               td Actividades de <i>lobbing</i>
               td 4.800,00
               td 5,10
               td 12%
             tr
-              td 11
-              td Entrega de material especializado en visita médica
+              td.text-center <b>11</b>
+              td Premio para red de visita
               td 1.600,00
               td 5,11
               td 4%
@@ -206,13 +212,13 @@
               <th colspan="1"></th>
               <th colspan="1">9%</th>
             tr
-              td 12
+              td.text-center <b>12</b>
               td Capacitación a directivos
               td 2.500,00
               td 5,12
               td 3%
             tr
-              td 13
+              td.text-center <b>13</b>
               td Capacitación para visitadores médicos
               td 1.148,00
               td 5,13

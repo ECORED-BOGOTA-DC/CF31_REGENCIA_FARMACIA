@@ -327,8 +327,35 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
+          nombre: 'Lina Marcela Ayala Pardo',
+          cargo: 'Experta temática',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Gustavo Santis Mancipe',
+          cargo: 'Diseñador instruccional',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Revisora metodológica y pedagógica',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable Equipo desarrollo curricular',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander ',
+        },
+        {
+          nombre: 'Julia Isabel Roberto',
+          cargo: 'Corrector de estilo',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
           nombre: 'Nelly Parra Guarín',
-          cargo: 'Adecuación instruccional - 2023',
+          cargo: 'Adecuación instruccional',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
@@ -345,13 +372,13 @@ export default {
       autores: [
         {
           nombre: 'Yuly Andrea Rey Quiñonez',
-          cargo: 'Diseño web-2023',
+          cargo: 'Diseño web',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Manuel Felipe Echavarria Orozco',
-          cargo: 'Desarrollo Fullstack-2023',
+          cargo: 'Desarrollo Fullstack',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
@@ -391,7 +418,7 @@ export default {
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Leyson Fabian Castaño Pérez',
+          nombre: 'Leyson Fabián Castaño Pérez',
           cargo: 'Validación de recursos educativos digitales',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
