@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-6.col-lg-1
         figure
-          img(src='@/assets/curso/temas/tema1/img1.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema1/img1.svg', alt='Imágen decorativa')
 
       .col-lg-11
         p La mejor manera que tiene una empresa de cualquier índole de conocer, entender, identificar las necesidades más puntuales y gustos de sus clientes es por medio del <i>marketing</i>.
@@ -29,7 +29,7 @@
 
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema1/img2.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema1/img2.svg', alt='Imágen decorativa')
 
           .row(titulo="Penetrar")
             .col-md-6.mb-4.mb-md-0
@@ -38,7 +38,7 @@
 
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema1/img3.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema1/img3.svg', alt='Imágen decorativa')
 
           .row(titulo="Análisis")
             .col-md-6.mb-4.mb-md-0
@@ -47,7 +47,7 @@
 
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema1/img4.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema1/img4.svg', alt='Imágen decorativa')
 
           .row(titulo="Diseño")
             .col-md-6.mb-4.mb-md-0
@@ -57,7 +57,7 @@
 
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema1/img5.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema1/img5.svg', alt='Imágen decorativa')
 
           .row(titulo="Diseñar planes")
             .col-md-6.mb-4.mb-md-0
@@ -67,7 +67,7 @@
 
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema1/img6.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema1/img6.svg', alt='Imágen decorativa')
 
           .row(titulo="Control")
             .col-md-6.mb-4.mb-md-0
@@ -77,7 +77,7 @@
 
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema1/img7.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema1/img7.svg', alt='Imágen decorativa')
 
 
 

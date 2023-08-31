@@ -11,7 +11,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema6/img1.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema6/img1.svg', alt='Imágen decorativa')
 
       .col-lg-8
         p Es el medio que utiliza la empresa ya sea para vender o promocionar sus productos y servicios con los consumidores, este canal funciona como plataforma publicitaria y tiene como objetivo capturar la atención tanto de las personas que ya son conocedoras de la marca como las que no. Por lo cual, es de suma importancia seleccionar el canal de venta más conveniente para lo que se busca conseguir.
@@ -39,7 +39,7 @@
 
           .col-md-5
             figure
-              img(src='@/assets/curso/temas/tema6/img3.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema6/img3.svg', alt='Imágen decorativa')
 
       .py-4.py-md-5(titulo="La tecnología que se utiliza" :icono="require('@/assets/curso/temas/tema6/img4.svg')")
         .row
@@ -62,7 +62,7 @@
 
           .col-md-5
             figure
-              img(src='@/assets/curso/temas/tema6/img5.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema6/img5.svg', alt='Imágen decorativa')
 
       .py-4.py-md-5(titulo="El soporte" :icono="require('@/assets/curso/temas/tema6/img6.svg')")
         .row
@@ -79,7 +79,7 @@
 
           .col-md-5
             figure
-              img(src='@/assets/curso/temas/tema6/img7.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema6/img7.svg', alt='Imágen decorativa')
 
 
 

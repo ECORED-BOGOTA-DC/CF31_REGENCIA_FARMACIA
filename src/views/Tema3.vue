@@ -20,7 +20,7 @@
         
           .col-md-5
             figure
-              img(src='@/assets/curso/temas/tema3/img1.svg', alt='alt') 
+              img(src='@/assets/curso/temas/tema3/img1.svg', alt='Imágen decorativa') 
 
         .row.justify-content-center.align-items-center(titulo="Promoción")
           .col-md-7.mb-4.mb-md-0
@@ -32,7 +32,7 @@
         
           .col-md-5
             figure
-              img(src='@/assets/curso/temas/tema3/img2.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema3/img2.svg', alt='Imágen decorativa')
 
           .col-md-6
             .tarjeta.tarjeta-morada.p-4.mb-3
@@ -54,7 +54,7 @@
         
           .col-md-5
             figure
-              img(src='@/assets/curso/temas/tema3/img3.svg', alt='alt') 
+              img(src='@/assets/curso/temas/tema3/img3.svg', alt='Imágen decorativa') 
 
         .row(titulo="Precio")
           .col-md-7.mb-4.mb-md-0
@@ -62,7 +62,7 @@
         
           .col-md-5
             figure
-              img(src='@/assets/curso/temas/tema3/img4.svg', alt='alt') 
+              img(src='@/assets/curso/temas/tema3/img4.svg', alt='Imágen decorativa') 
 
     .row.mb-5
       p Por otra parte, existen elementos importantes dentro de la visita médica y del perfil del visitador médico que es importante tener claro:
@@ -73,7 +73,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema3/img5.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema3/img5.svg', alt='Imágen decorativa')
 
       .col-lg-8
         p Es la estrategia de mercadeo normativamente permitida para promocionar los medicamentos que solo se pueden vender bajo prescripción médica, esta estrategia es utilizada por los laboratorios fabricantes mediante los visitadores médicos que son profesionales expertos en presentar a los médicos el o los productos farmacéuticos de su industria, con el propósito de que ellos los prescriban a sus pacientes.
@@ -113,7 +113,7 @@
 
           .col-lg-4
             figure
-              img(src='@/assets/curso/temas/tema3/img6.svg', alt='alt').img6-tm3
+              img(src='@/assets/curso/temas/tema3/img6.svg', alt='Imágen decorativa').img6-tm3
 
 
     .row.bg-titulo4.align-items-center.p-1.mb-5
@@ -149,7 +149,7 @@
 
             .col-md-5
               figure
-                img(src='@/assets/curso/temas/tema3/img7.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema3/img7.svg', alt='Imágen decorativa')
 
           .row.justify-content-center.align-items-center
             .col-md-7.mb-4.mb-md-0
@@ -170,7 +170,7 @@
 
             .col-md-5
               figure
-                img(src='@/assets/curso/temas/tema3/img8.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema3/img8.svg', alt='Imágen decorativa')
 
           .row.justify-content-center.align-items-center
             .col-md-7.mb-4.mb-md-0
@@ -205,7 +205,7 @@
 
             .col-md-5
               figure
-                img(src='@/assets/curso/temas/tema3/img9.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema3/img9.svg', alt='Imágen decorativa')
 
 
     .row.justify-content-center.align-items-center.mb-5

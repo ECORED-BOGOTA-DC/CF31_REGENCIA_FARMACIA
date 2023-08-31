@@ -26,7 +26,7 @@
 
           .col-lg-4
             figure
-              img(src='@/assets/curso/temas/tema4/img1.svg', alt='alt')
+              img(src='@/assets/curso/temas/tema4/img1.svg', alt='Imágen decorativa')
 
     .row.mb-5
       p Para que exista comunicación debe haber varios elementos, estos son:
@@ -41,7 +41,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         figure
-          img(src='@/assets/curso/temas/tema4/img2.svg', alt='alt').img2-tm4
+          img(src='@/assets/curso/temas/tema4/img2.svg', alt='Figura 2. Muestra los elementos que son necesarios para la comunicación, estos son:<br>1. Mensaje: es lo que quiere transmitir el emisor que sería el segundo elemento y para este caso es el regente de farmacia y dicho mensaje es recibido por el tercer elemento que se denomina receptor y en este caso es el cliente.').img2-tm4
 
     
     .row.justify-content-center.align-items-center.mb-5
@@ -52,7 +52,7 @@
               .row.justify-content-center.align-items-center
                 .col-2.my-4
                   figure
-                    img(src='@/assets/curso/temas/tema4/img-comillas.svg', alt='alt')
+                    img(src='@/assets/curso/temas/tema4/img-comillas.svg', alt='Imágen decorativa')
               
               p.text-center “La comunicación es el proceso por el que se intercambian o comparten significados especiales a través de un conjunto de símbolos comunes”
 
@@ -64,7 +64,7 @@
 
           .col-lg-7
             figure
-              img(src='@/assets/curso/temas/tema4/img3.svg', alt='alt').img3-tm4
+              img(src='@/assets/curso/temas/tema4/img3.svg', alt='Imágen decorativa').img3-tm4
 
 
     .row.mb-5
@@ -81,7 +81,7 @@
 
             .col-lg-5
               figure
-                img(src='@/assets/curso/temas/tema4/img4.svg', alt='alt')            
+                img(src='@/assets/curso/temas/tema4/img4.svg', alt='Imágen decorativa')            
 
         .tarjeta.tarjeta-azul5.p-4(titulo="Promoción de venta")
           .row
@@ -90,7 +90,7 @@
 
             .col-lg-5
               figure
-                img(src='@/assets/curso/temas/tema4/img5.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema4/img5.svg', alt='Imágen decorativa')
 
         .tarjeta.tarjeta-azul5.p-4(titulo="Relaciones públicas")
           .row
@@ -99,12 +99,12 @@
 
             .col-lg-5
               figure
-                img(src='@/assets/curso/temas/tema4/img6.svg', alt='alt')   
+                img(src='@/assets/curso/temas/tema4/img6.svg', alt='Imágen decorativa')   
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema4/img7.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema4/img7.svg', alt='Imágen decorativa')
 
       .col-lg-8
         p El <i>Customer Relationship Management</i> CRM en español, traduce gestión de la relación con el cliente. Es un término que aparece en 1960 por dos grandes exponentes del management Peter Druker y Theodore Levitt quienes afirman que <b style= "color:#00BCD4;">“el verdadero negocio de toda empresa es hacer clientes, mantenerlos y maximizar su rentabilidad”</b> (Drucker y Levitt, citado por Curry, 2002, p.9).
@@ -123,12 +123,12 @@
 
       .col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema4/img8.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema4/img8.svg', alt='Imágen decorativa')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema4/img9.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema4/img9.svg' alt='Imágen decorativa')
           .tarjeta.tarjeta-azul6
             .p-4
               h4.text-center I. CRM operacional
@@ -136,7 +136,7 @@
 
       .col-lg-4
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema4/img10.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema4/img10.svg' alt='Imágen decorativa')
           .tarjeta.tarjeta-azul6
             .p-4
               h4.text-center II. CRM de análisis
@@ -144,7 +144,7 @@
 
       .col-lg-4
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema4/img11.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema4/img11.svg' alt='Imágen decorativa')
           .tarjeta.tarjeta-azul6
             .p-4
               h4.text-center III. CRM de colaboración

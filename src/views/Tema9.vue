@@ -26,7 +26,7 @@
 
               .col-md-4
                 figure
-                  img(src='@/assets/curso/temas/tema9/img1.svg', alt='alt')
+                  img(src='@/assets/curso/temas/tema9/img1.svg', alt='Imágen decorativa')
 
             .row.justify-content-center.align-items-center
               .col-md-8.mb-4.mb-md-0
@@ -40,7 +40,7 @@
 
               .col-md-4
                 figure
-                  img(src='@/assets/curso/temas/tema9/img2.svg', alt='alt')
+                  img(src='@/assets/curso/temas/tema9/img2.svg', alt='Imágen decorativa')
 
             .row.justify-content-center.align-items-center
               .col-md-8.mb-4.mb-md-0
@@ -52,7 +52,7 @@
 
               .col-md-4
                 figure
-                  img(src='@/assets/curso/temas/tema9/img3.svg', alt='alt')
+                  img(src='@/assets/curso/temas/tema9/img3.svg', alt='Imágen decorativa')
 
 
     .row.mb-5
@@ -67,7 +67,7 @@
           .row.justify-content-center.mb-3
             .col-7
               figure
-                img(src='@/assets/curso/temas/tema9/img4.svg', alt='alt').img4-7_tm9
+                img(src='@/assets/curso/temas/tema9/img4.svg', alt='Imágen decorativa').img4-7_tm9
 
           h4 Llamadas
           p Tener claro el número de llamadas que entran y salen durante el día en pos de los clientes permite evidenciar cómo avanza el proceso de ventas desde el inicio hasta el cierre. Esta métrica también permite comprender si el equipo de trabajo está realizando el seguimiento de la mejor manera.
@@ -77,7 +77,7 @@
           .row.justify-content-center.mb-3
             .col-7
               figure
-                img(src='@/assets/curso/temas/tema9/img5.svg', alt='alt').img4-7_tm9
+                img(src='@/assets/curso/temas/tema9/img5.svg', alt='Imágen decorativa').img4-7_tm9
 
           h4 Email
           p El correo electrónico o email es uno de los canales de comunicación asincrónica más útil a nivel empresarial y por medio de este se puede realizar un muy buen seguimiento del marketing y ventas de productos y servicios.
@@ -91,7 +91,7 @@
           .row.justify-content-center.mb-3
             .col-7
               figure
-                img(src='@/assets/curso/temas/tema9/img6.svg', alt='alt').img4-7_tm9
+                img(src='@/assets/curso/temas/tema9/img6.svg', alt='Imágen decorativa').img4-7_tm9
 
           h4 Tasa de conversión
           p Esta métrica es útil porque permite comparar durante cierto periodo de tiempo si las ventas han aumentado o por el contrario, han disminuido. La tasa de conversión se puede fragmentar por producto, grupo de ventas, plan de marketing, etc.
@@ -99,19 +99,19 @@
           p La tasa de conversión se mide mediante la siguiente fórmula:
 
           figure.mb-3
-            img(src='@/assets/curso/temas/tema9/img9.svg', alt='alt')
+            img(src='@/assets/curso/temas/tema9/img9.svg', alt='Imágen decorativa')
 
           b Ejemplo:
 
           figure.mt-3
-            img(src='@/assets/curso/temas/tema9/img8.svg', alt='alt')               
+            img(src='@/assets/curso/temas/tema9/img8.svg', alt='Imágen decorativa')               
 
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
         .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3
             .col-7
               figure
-                img(src='@/assets/curso/temas/tema9/img7.svg', alt='alt').img4-7_tm9
+                img(src='@/assets/curso/temas/tema9/img7.svg', alt='Imágen decorativa').img4-7_tm9
 
           h4 Duración de la fase de ventas
           p Medir el tiempo transcurrido desde que se inicia el contacto con un cliente hasta que se cierra la transacción, ya sea con ganancia (el cliente adquiere el producto o el servicio) o pérdida (el cliente no adquiere nada), es muy importante para determinar los pronósticos de ventas exactas.

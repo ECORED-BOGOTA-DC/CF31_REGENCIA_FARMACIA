@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-4.col-lg-1
         figure
-          img(src='@/assets/curso/temas/tema7/img1.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema7/img1.svg', alt='Imágen decorativa')
 
       .col-lg-11
         p Recuerde que el cliente en salud es la persona que adquiere un servicio que necesita o desea para sí mismo o para otra persona. Es necesario recalcar que el usuario es el motivo principal por el que se crean las instituciones de salud.
@@ -27,7 +27,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3
         figure
-          img(src='@/assets/curso/temas/tema7/img2.svg', alt='alt').img1-tm7
+          img(src='@/assets/curso/temas/tema7/img2.svg', alt='Imágen decorativa').img1-tm7
 
       .col-lg-9
         .tarjeta.tarjeta-azul2.p-4
@@ -51,70 +51,70 @@
         .tarjeta.tarjeta-azul4.p-4
           .row.mb-3
             .col-4
-              img(src='@/assets/curso/temas/tema7/img3.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema7/img3.svg' alt='Imágen decorativa')
 
           p.text-center Cliente amable: su actitud es amigable, asienta con un sí a todo lo que se le dice; pero no muestra claridad en las cosas, por lo cual la mejor estrategia es enseñarle pocos productos.
 
         .tarjeta.tarjeta-azul4.p-4
           .row.mb-3
             .col-4
-              img(src='@/assets/curso/temas/tema7/img4.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema7/img4.svg' alt='Imágen decorativa')
 
           p.text-center Cliente reflexivo: le gusta tener las cosas claras y la información completa antes de realizar cualquier compra, porque son muy organizados. Requieren ser atendidos con paciencia, tranquilidad y datos precisos del producto.
 
         .tarjeta.tarjeta-azul4.p-4
           .row.mb-3
             .col-4
-              img(src='@/assets/curso/temas/tema7/img5.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema7/img5.svg' alt='Imágen decorativa')
 
           p.text-center Cliente entusiasta: son muy conversadores y no siempre sus temas tienen que ver con la compra del producto, por lo cual el vendedor es quien debe enfocar la conversación en el producto; pero con sutileza.
 
         .tarjeta.tarjeta-azul4.p-4
           .row.mb-3
             .col-4
-              img(src='@/assets/curso/temas/tema7/img6.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema7/img6.svg' alt='Imágen decorativa')
 
           p.text-center Cliente tímido: no se acercan mucho y no sostienen miradas con el vendedor. Requiere sentirse en confianza, por lo cual no se debe mirar muy fijamente a los ojos o hacerle preguntas personales.
 
         .tarjeta.tarjeta-azul4.p-4
           .row.mb-3
             .col-4
-              img(src='@/assets/curso/temas/tema7/img7.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema7/img7.svg' alt='Imágen decorativa')
               
           p.text-center Cliente indeciso: no tiene muy claro si realizar la compra o no, por lo cual pregunta mucho. Ante esto se debe tener paciencia y explicarle todo lo que requiera sin presionarlo.
 
         .tarjeta.tarjeta-azul4.p-4
           .row.mb-3
             .col-4
-              img(src='@/assets/curso/temas/tema7/img8.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema7/img8.svg' alt='Imágen decorativa')
               
           p.text-center Cliente silencioso: es de pocas palabras; pero muy buen escucha de todo lo que se le dice. No manifiesta de entrada lo que necesita. Se debe ser amable con él, darle opciones y mostrar interés.
 
         .tarjeta.tarjeta-azul4.p-4
           .row.mb-3
             .col-4
-              img(src='@/assets/curso/temas/tema7/img9.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema7/img9.svg' alt='Imágen decorativa')
               
           p.text-center Cliente discutidor: llega con actitud desafiante y soberbia. Ante este tipo de cliente se debe conservar la calma y evitar a toda costa caer en una discusión con él.
 
         .tarjeta.tarjeta-azul4.p-4
           .row.mb-3
             .col-4
-              img(src='@/assets/curso/temas/tema7/img10.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema7/img10.svg' alt='Imágen decorativa')
               
           p.text-center Cliente orgulloso: es muy bueno con la labia y cree sabérsela todas, por lo cual no permite que lo asesoren. Si permite un consejo se le brinda con certeza y claridad.
 
         .tarjeta.tarjeta-azul4.p-4
           .row.mb-3
             .col-4
-              img(src='@/assets/curso/temas/tema7/img11.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema7/img11.svg' alt='Imágen decorativa')
               
           p.text-center Cliente escéptico: es desconfiado y prevenido, por lo que pregunta las ventajas y desventajas del producto, pues teme ser engañado.
 
         .tarjeta.tarjeta-azul4.p-4
           .row.mb-3
             .col-4
-              img(src='@/assets/curso/temas/tema7/img12.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema7/img12.svg' alt='Imágen decorativa')
               
           p.text-center Cliente ocupado: desde el inicio su saludo va acompañado de un “cuento con poco tiempo”, suele ser impaciente y querer que lo atiendan de inmediato.
 
@@ -146,7 +146,7 @@
 
       .col-lg-2
         figure
-          img(src='@/assets/curso/temas/tema7/img13.svg', alt='alt').img13-tm7
+          img(src='@/assets/curso/temas/tema7/img13.svg', alt='Imágen decorativa').img13-tm7
 
 
 

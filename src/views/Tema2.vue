@@ -19,7 +19,7 @@
           
             .col-md-5
               figure
-                img(src='@/assets/curso/temas/tema2/img2.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema2/img2.svg', alt='Imágen decorativa')
 
         .py-4.py-md-5(titulo="Objetivos de la empresa y del <i>marketing</i>" :icono="require('@/assets/curso/temas/tema2/img3.svg')")
           .row.justify-content-center.align-items-center
@@ -28,7 +28,7 @@
           
             .col-md-5
               figure
-                img(src='@/assets/curso/temas/tema2/img4.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema2/img4.svg', alt='Imágen decorativa')
 
         .py-4.py-md-5(titulo="Competencia y gastos en publicidad" :icono="require('@/assets/curso/temas/tema2/img5.svg')")
           .row.justify-content-center.align-items-center
@@ -37,7 +37,7 @@
           
             .col-md-5
               figure
-                img(src='@/assets/curso/temas/tema2/img6.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema2/img6.svg', alt='Imágen decorativa')
 
         .py-4.py-md-5(titulo="Productos ofertados" :icono="require('@/assets/curso/temas/tema2/img7.svg')")
           .row.justify-content-center.align-items-center
@@ -46,7 +46,7 @@
           
             .col-md-5
               figure
-                img(src='@/assets/curso/temas/tema2/img8.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema2/img8.svg', alt='Imágen decorativa')
 
         .py-4.py-md-5(titulo="Punto del ciclo de vida en que se encuentra el producto" :icono="require('@/assets/curso/temas/tema2/img9.svg')")
           .row.justify-content-center.align-items-center
@@ -54,11 +54,11 @@
               p El ciclo de vida de un producto pasa por cuatro fases que son la de lanzamiento, crecimiento, madurez y declive, dependiendo de la fase en la que se encuentre el producto al que se le aplicará el <i>marketing</i>, los gastos en publicidad cambian, por ejemplo, un producto en la fase de lanzamiento requiere de alta inversión publicitaria.
 
               figure
-                img(src='@/assets/curso/temas/tema2/img10.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema2/img10.svg', alt='Imagen que muestra el ciclo de vida de un producto compuesto por cuatro fases que son:<br>Lanzamiento<br>crecimiento<br>Madurez<br> y Declive')
 
             .col-md-5
               figure
-                img(src='@/assets/curso/temas/tema2/img11.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema2/img11.svg', alt='Imágen decorativa')
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -71,7 +71,7 @@
 
       .col-lg-10
         figure
-          img(src='@/assets/curso/temas/tema2/img12.svg', alt='alt')      
+          img(src='@/assets/curso/temas/tema2/img12.svg', alt='Figura 1. que expone las razones de definir el presupuesto que son:<br>1. Permite considerar los ingresos para futuras inversiones, créditos, inventarios, etc.<br>2. Contribuye a la coherencia entre recursos y objetivos.<br>3. Sirve como guía en las actividades de marketing.<br>4. Garantiza que las actividades sean acordes al plan.<br>5. Establece un proceso de evaluación de resultados verdaderos con los resultados esperados.<br>6. Exige al seguimiento y la creación de nuevos objetivos durante todo el proceso.')      
 
     .row.bg-titulo1.align-items-center.p-1.mb-4
       h3.my-3 Métodos para la elaboración del presupuesto de <i>marketing</i>
@@ -123,7 +123,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        table
+        table(alt='Muestra el ejemplo de la distribución de un presupuesto de marketing.')
           caption Nota. Adaptado de https://docplayer.es/8382311-Capitulo-6-presupuesto-de-marketing-y-evaluacion-de-beneficios-generados-por-el-proyecto.html 
           thead.text-center(style='background-color: #CBBFF4')
               <th colspan="5">Presupuesto de <i>marketing</i></th>
@@ -236,7 +236,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-6.col-lg-1
         figure
-          img(src='@/assets/curso/temas/tema2/img13.svg', alt='alt')       
+          img(src='@/assets/curso/temas/tema2/img13.svg', alt='Imágen decorativa')       
 
       .col-lg-5
         p Este análisis se realiza por medio de un indicador que permite a la empresa identificar cuál será la inversión por realizar para ejecutar el plan de <i>marketing</i>.
@@ -249,7 +249,7 @@
             
             .col-lg-6
               figure
-                img(src='@/assets/curso/temas/tema2/img14.svg', alt='alt') 
+                img(src='@/assets/curso/temas/tema2/img14.svg', alt='Imágen decorativa') 
 
 
 

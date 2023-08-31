@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Resumen de los temas principales que contiene el componente de promoción y seguimiento a los productos farmacéuticos como es la estrategia de mercadeo que esta conformada por diferentes variables cuyo objetivo es satisfacer las necesidades del los clientes, conocer adémas sobre la importancia de realizar seguimientos constantes con el fin de verificar si el plan de promoción cumple con las expectativas planteadas y con las estrategias implementadas para la venta de productos; este componente también abordo las diferentes fases del proceso de marketing.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

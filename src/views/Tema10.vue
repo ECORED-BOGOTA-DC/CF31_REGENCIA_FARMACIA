@@ -14,13 +14,13 @@
       ImagenInfografica.color-acento-botones
         template(v-slot:imagen)
           figure
-            img(src='@/assets/curso/temas/tema10/img1.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema10/img1.svg', alt='Imágen decorativa')
 
         .tarjeta.tarjeta-morada.p-3(x="7%" y="57%" numero="")
           .row.justify-content-center.align-items-center
             .col-3
               figure
-                img(src='@/assets/curso/temas/tema10/img2.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema10/img2.svg', alt='Imágen decorativa')
 
             .col-9
               h5 Lanzamiento:
@@ -30,7 +30,7 @@
           .row.justify-content-center.align-items-center
             .col-3
               figure
-                img(src='@/assets/curso/temas/tema10/img3.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema10/img3.svg', alt='Imágen decorativa')
 
             .col-9
               h5 Crecimiento:
@@ -40,7 +40,7 @@
           .row.justify-content-center.align-items-center
             .col-3
               figure
-                img(src='@/assets/curso/temas/tema10/img4.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema10/img4.svg', alt='Imágen decorativa')
 
             .col-9
               h5 Madurez:
@@ -50,7 +50,7 @@
           .row.justify-content-center.align-items-center
             .col-3
               figure
-                img(src='@/assets/curso/temas/tema10/img5.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema10/img5.svg', alt='Imágen decorativa')
 
             .col-9
               h5 Declive:

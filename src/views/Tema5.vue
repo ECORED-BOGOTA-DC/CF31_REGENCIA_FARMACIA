@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema5/img1.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema5/img1.svg', alt='Imágen decorativa')
       
       .col-lg-8
         p Este es un concepto propio del entorno del marketing y de la economía de la organización, que abarca el posicionamiento de la empresa en un mercado y cómo lo perciben los clientes, la competencia y el resto de las personas que conozcan su actividad económica y la manera en cómo la llevan a cabo.
@@ -24,37 +24,37 @@
       .tarjeta.color-acento-contenido
         .row.justify-content-center.mb-3
           .col-12
-            img(src='@/assets/curso/temas/tema5/img2.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema5/img2.svg' alt='Imágen decorativa')
         h5.text-center.mt-4 <h4 style= "color:#12263F;">Nombre de la empresa</h4>
 
       .tarjeta.color-acento-contenido
         .row.justify-content-center.mb-3
           .col-12
-            img(src='@/assets/curso/temas/tema5/img3.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema5/img3.svg' alt='Imágen decorativa')
         h5.text-center <h4 style= "color:#12263F;">Nombre y naturaleza de los productos</h4>
 
       .tarjeta.color-acento-contenido
         .row.justify-content-center.mb-3
           .col-12
-            img(src='@/assets/curso/temas/tema5/img4.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema5/img4.svg' alt='Imágen decorativa')
         h5.text-center.mt-4 <h4 style= "color:#12263F;">Logotipo</h4>
 
       .tarjeta.color-acento-contenido
         .row.justify-content-center.mb-3
           .col-12
-            img(src='@/assets/curso/temas/tema5/img5.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema5/img5.svg' alt='Imágen decorativa')
         h5.text-center.mt-4 <h4 style= "color:#12263F;">Lemas y jingles publicitarios</h4>
 
       .tarjeta.color-acento-contenido
         .row.justify-content-center.mb-3
           .col-12
-            img(src='@/assets/curso/temas/tema5/img6.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema5/img6.svg' alt='Imágen decorativa')
         h5.text-center.mt-4 <h4 style= "color:#12263F;">Plataformas online y página web</h4>
 
       .tarjeta.color-acento-contenido
         .row.justify-content-center.mb-3
           .col-12
-            img(src='@/assets/curso/temas/tema5/img7.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema5/img7.svg' alt='Imágen decorativa')
         h5.text-center <h4 style= "color:#12263F;">Reputación y responsabilidad social corporativa</h4>
 
 

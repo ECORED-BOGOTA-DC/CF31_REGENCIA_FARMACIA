@@ -11,7 +11,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema8/img1.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema8/img1.svg', alt='Imágen decorativa')
 
       .col-lg-8
         p La promoción de productos y servicios en los establecimientos farmacéuticos se lleva a cabo mediante unas estrategias planificadas e implementadas; pero que requieren de control y seguimiento con el fin de determinar si se están logrando los objetivos planteados o por el contrario, ameritan mejoras.
@@ -60,7 +60,7 @@
         
           .col-md-5
             figure
-              img(src='@/assets/curso/temas/tema8/img2.svg', alt='alt') 
+              img(src='@/assets/curso/temas/tema8/img2.svg', alt='Imágen decorativa') 
 
         .row(titulo="Control de rentabilidad")
           .col-md-7.mb-4.mb-md-0
@@ -68,7 +68,7 @@
         
           .col-md-5
             figure
-              img(src='@/assets/curso/temas/tema8/img3.svg', alt='alt') 
+              img(src='@/assets/curso/temas/tema8/img3.svg', alt='Imágen decorativa') 
 
         .row(titulo="Control de eficiencia")
           .col-md-7.mb-4.mb-md-0
@@ -76,7 +76,7 @@
         
           .col-md-5
             figure
-              img(src='@/assets/curso/temas/tema8/img4.svg', alt='alt') 
+              img(src='@/assets/curso/temas/tema8/img4.svg', alt='Imágen decorativa') 
 
         .row(titulo="Control estratégico")
           .col-md-7.mb-4.mb-md-0
@@ -84,7 +84,7 @@
         
           .col-md-5
             figure
-              img(src='@/assets/curso/temas/tema8/img5.svg', alt='alt') 
+              img(src='@/assets/curso/temas/tema8/img5.svg', alt='Imágen decorativa') 
 
     .row.bg-titulo4.align-items-center.p-1.mb-5
       h3.my-3 Pilares del seguimiento al plan de marketing
@@ -101,7 +101,7 @@
           .row.justify-content-center.align-items-center
             .col-6.col-lg-4
               figure
-                img(src='@/assets/curso/temas/tema8/img6.svg', alt='alt').img6-9_tm8
+                img(src='@/assets/curso/temas/tema8/img6.svg', alt='Imágen decorativa').img6-9_tm8
 
             .col-lg-8
               h5 Control de objetivos      
@@ -114,7 +114,7 @@
           .row.justify-content-center.align-items-center 
             .col-6.col-lg-4
               figure
-                img(src='@/assets/curso/temas/tema8/img7.svg', alt='alt').img6-9_tm8
+                img(src='@/assets/curso/temas/tema8/img7.svg', alt='Imágen decorativa').img6-9_tm8
 
             .col-lg-8
               h5 Control de procedimientos      
@@ -127,7 +127,7 @@
           .row.justify-content-center.align-items-center
             .col-6.col-lg-4
               figure
-                img(src='@/assets/curso/temas/tema8/img8.svg', alt='alt').img6-9_tm8
+                img(src='@/assets/curso/temas/tema8/img8.svg', alt='Imágen decorativa').img6-9_tm8
 
             .col-lg-8
               h5 Control del cliente      
@@ -140,7 +140,7 @@
           .row.justify-content-center.align-items-center
             .col-6.col-lg-4
               figure
-                img(src='@/assets/curso/temas/tema8/img9.svg', alt='alt').img6-9_tm8
+                img(src='@/assets/curso/temas/tema8/img9.svg', alt='Imágen decorativa').img6-9_tm8
 
             .col-lg-8
               h5 Control KPI’s      
