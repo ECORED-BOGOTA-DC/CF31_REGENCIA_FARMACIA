@@ -34,7 +34,7 @@
           .row(titulo="Penetrar")
             .col-md-6.mb-4.mb-md-0
               h4 2. Penetrar el mercado.
-              p En esta fase se selecciona el mercado al cual se quiere llegar, es decir, se debe segmentar el mercado, de manera que el enfoque y esfuerzo esté completamente dirigido a ello. Para ello, es necesario tener claras las características de los productos y/o servicios que se van a incorporar, por ejemplo, servicio de inyectología o charlas que van sujetas a la clase de compradores que lo rodean. 
+              p En esta fase se selecciona el mercado al cual se quiere llegar, es decir, se debe segmentar el mercado, de manera que el enfoque y esfuerzo esté completamente dirigido a ello. Para ello, es necesario tener claras las características de los productos o servicios que se van a incorporar, por ejemplo, servicio de inyectología o charlas que van sujetas a la clase de compradores que hacen uso de los servicios. 
 
             .col-md-6
               figure
@@ -43,7 +43,7 @@
           .row(titulo="Análisis")
             .col-md-6.mb-4.mb-md-0
               h4 3. Análisis del mercado.
-              p Teniendo claro el mercado a penetrar, en esta fase se debe realizar un análisis minucioso de ese mercado, de manera que se identifique a mayor profundidad los posibles clientes y la competencia. Una herramienta útil en este caso es la matriz DOFA, ya que ayuda a reconocer las debilidades, oportunidades, fortalezas y amenazas del mercado a penetrar. Las oportunidades y las amenazas vienen del exterior, por lo cual no se tiene dominio sobre ellas; pero bien identificadas se les puede poner a funcionar a favor de la empresa; las debilidades y fortalezas son internas, por lo cual están al alcance de mejorarlas. Es importante tener presente que esta fase es la clave para lograr el éxito esperado, ya que la toma de decisiones está soportada sobre la información obtenida. 
+              p Teniendo claro el mercado a penetrar, en esta fase se debe realizar un análisis minucioso de ese mercado, de manera que se identifiquen a mayor profundidad los posibles clientes y la competencia. Una herramienta útil en este caso es la matriz DOFA, ya que ayuda a reconocer las debilidades, oportunidades, fortalezas y amenazas del mercado a penetrar. Las oportunidades y las amenazas vienen del exterior, por lo cual no se tiene dominio sobre ellas; pero bien identificadas se les puede poner a funcionar a favor de la empresa; las debilidades y fortalezas son internas, por lo es factible tomar acción sobre estas. Es importante tener presente que esta fase es la clave para lograr el éxito esperado, ya que la toma de decisiones está soportada sobre la información obtenida. 
 
             .col-md-6
               figure
@@ -53,7 +53,7 @@
             .col-md-6.mb-4.mb-md-0
               h4 4. Diseño de estrategias.
 
-              p Esta fase es considerada el punto de inflexión de todo el plan de <i>marketing</i>, ya que aquí se diseñan cada una de las estrategias que se van a utilizar. En esta fase toma sentido el <i>marketing mix</i> conformado por las 4Ps (precio, producto, promoción y plaza).
+              p Esta fase es considerada el punto de inflexión de todo el plan de <i>marketing</i>, ya que aquí se diseña cada una de las estrategias que se van a utilizar. En esta fase toma sentido el <i>marketing mix</i> conformado por las 4 Ps (precio, producto, promoción y plaza).
 
             .col-md-6
               figure

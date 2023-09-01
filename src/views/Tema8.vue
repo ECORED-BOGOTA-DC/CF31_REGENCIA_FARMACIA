@@ -18,7 +18,7 @@
 
         p En el momento de verificar los resultados obtenidos que se van elaborando se hace necesario entrar a analizar cuáles han sido las causas clave que han sido asertivas y cuáles son los errores en práctica que se han cometido, de manera que desde ambas perspectivas se tomen las medidas de control pertinentes.
 
-        p El control de un proyecto de promoción y venta se lleva a cabo con el fin de determinar si las tácticas de marketing están funcionando o no. Por lo cual aplicar los siguientes puntos genera respuestas asertivas sobre las tácticas implementadas:
+        p El control de un proyecto de promoción y venta se lleva a cabo con el fin de determinar si las tácticas de <i>marketing</i> están funcionando o no. Por lo cual aplicar los siguientes puntos genera respuestas asertivas sobre las tácticas implementadas:
 
 
     .bg-fondo1
@@ -64,7 +64,7 @@
 
         .row(titulo="Control de rentabilidad")
           .col-md-7.mb-4.mb-md-0
-            p La empresa define una persona con el cargo de controlador de marketing, con el fin de que identifique los puntos de la empresa que generan ingresos y los que generan pérdida. Ese proceso se lleva a cabo mediante la revisión de la utilidad del producto, territorio, clientes, entre otros.
+            p La empresa define una persona con el cargo de controlador de <i>marketing</i>, con el fin de que identifique los puntos de la empresa que generan ingresos y los que generan pérdida. Ese proceso se lleva a cabo mediante la revisión de la utilidad del producto, territorio, clientes, entre otros.
         
           .col-md-5
             figure
@@ -72,7 +72,7 @@
 
         .row(titulo="Control de eficiencia")
           .col-md-7.mb-4.mb-md-0
-            p El responsable es el gerente de línea y el personal a su mando. Ellos son los encargados de controlar que el marketing esté funcionando debidamente y de impulsar la eficiencia de este, por lo cual tienen muy presente la publicidad, promociones (costos más bajos), la fuerza de ventas, entre otros.
+            p El responsable es el gerente de línea y el personal a su mando. Ellos son los encargados de controlar que el <i>marketing</i> esté funcionando debidamente y de impulsar la eficiencia de este, por lo cual tienen muy presente la publicidad, promociones (costos más bajos), la fuerza de ventas, entre otros.
         
           .col-md-5
             figure
@@ -80,17 +80,17 @@
 
         .row(titulo="Control estratégico")
           .col-md-7.mb-4.mb-md-0
-            p La responsabilidad la tiene la alta dirección y la persona que tiene el cargo de auditor de marketing. Este grupo se encarga de analizar hasta dónde la empresa está apuntando a conseguir las mejores oportunidades a partir de los mercados, los productos y los canales de distribución. Este control requiere que se empleen instrumentos de valoración de la eficacia de la promoción y venta de productos y servicios y, que se realice una auditoría de marketing.
+            p La responsabilidad la tiene la alta dirección y la persona que tiene el cargo de auditor de <i>marketing</i>. Este grupo se encarga de analizar hasta dónde la empresa está apuntando a conseguir las mejores oportunidades a partir de los mercados, los productos y los canales de distribución. Este control requiere que se empleen instrumentos de valoración de la eficacia de la promoción y venta de productos y servicios y, que se realice una auditoría de <i>marketing</i>.
         
           .col-md-5
             figure
               img(src='@/assets/curso/temas/tema8/img5.svg', alt='Imágen decorativa') 
 
     .row.bg-titulo4.align-items-center.p-1.mb-5
-      h3.my-3 Pilares del seguimiento al plan de marketing
+      h3.my-3 Pilares del seguimiento al plan de <i>marketing</i>
 
     .row.mb-5
-      p El seguimiento de un plan de marketing tiene como eje central los siguientes pilares:
+      p El seguimiento de un plan de <i>marketing</i> tiene como eje central los siguientes pilares:
       
 
     .row.justify-content-center.align-items-center.mb-5
@@ -105,7 +105,7 @@
 
             .col-lg-8
               h5 Control de objetivos      
-          p.text-center Mensual, semestral y anualmente se deben revisar los objetivos planteados para el plan de marketing, de manera que en ningún momento se pierda el enfoque de los resultados que desde el inicio se esperan alcanzar.
+          p.text-center Mensual, semestral y anualmente se deben revisar los objetivos planteados para el plan de <i>marketing</i>, de manera que en ningún momento se pierda el enfoque de los resultados que desde el inicio se esperan alcanzar.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-secundario.p-4(style="height: 465px")
@@ -131,7 +131,7 @@
 
             .col-lg-8
               h5 Control del cliente      
-          p.text-center En el seguimiento al plan de marketing es importante tener el indicador de satisfacción y fidelidad de los clientes, por lo cual se debe observar el Índice General de Satisfacción (IGS), aplicar cuestionarios de satisfacción y evaluar el índice de fidelidad de los clientes.
+          p.text-center En el seguimiento al plan de <i>marketing</i> es importante tener el indicador de satisfacción y fidelidad de los clientes, por lo cual se debe observar el Índice General de Satisfacción (IGS), aplicar cuestionarios de satisfacción y evaluar el índice de fidelidad de los clientes.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-acento-botones.p-4(style="height: 465px")

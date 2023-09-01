@@ -72,10 +72,10 @@
             ul.lista-ul--color.fa-ul2
               li
                 i.fas.fa-check-circle
-                p.mb-0 #[b Venta fuera de Internet (offline):] este es el tradicional, donde la venta se lleva a cabo en persona.
+                p.mb-0 #[b Venta fuera de Internet (#[i offline]):] este es el tradicional, donde la venta se lleva a cabo en persona.
               li
                 i.fas.fa-check-circle
-                p.mb-0 #[b Venta por Internet (online):] en este se realizan todas las ventas por medio de la Internet.   El canal de venta online es un medio electrónico, por el cual se realizan diferentes acciones como promocionar y vender productos y servicios. Debido a los avances tecnológicos las investigaciones revelan que hoy en día la mayor parte de los clientes se encuentran por medios digitales, por lo cual una empresa que no esté actualizada en este tema tiende a entrar en decadencia. Algunos tipos de canales online son Google Shopping, mercado libre, redes sociales, entre otros.
+                p.mb-0 #[b Venta por Internet (#[i online]):] en este se realizan todas las ventas por medio de la Internet.   El canal de venta online es un medio electrónico, por el cual se realizan diferentes acciones como promocionar y vender productos y servicios. Debido a los avances tecnológicos las investigaciones revelan que hoy en día la mayor parte de los clientes se encuentran por medios digitales, por lo cual una empresa que no esté actualizada en este tema tiende a entrar en decadencia. Algunos tipos de canales online son Google Shopping, mercado libre, redes sociales, entre otros.
 
           .col-md-5
             figure

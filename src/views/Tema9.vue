@@ -8,7 +8,7 @@
       h1 Beneficios del seguimiento 
 
     .row.mb-5
-      p Realizar el seguimiento al plan de marketing trae diferentes beneficios para el establecimiento, algunos de ellos son:
+      p Realizar el seguimiento al plan de <i>marketing</i> trae diferentes beneficios para el establecimiento, algunos de ellos son:
     
     .bg-fondo2
       .row.justify-content-center.align-items-center.mb-5
@@ -18,9 +18,9 @@
               .col-md-8.mb-4.mb-md-0
                 h5 Conocer mejor a los clientes
 
-                p El seguimiento al marketing y a las ventas permite identificar los hábitos de compra y sus necesidades.
+                p El seguimiento al <i>marketing</i> y a las ventas permite identificar los hábitos de compra y sus necesidades.
 
-                p Por ejemplo, si ya se conoce los patrones de compra del cliente X y durante varios días esos patrones cambian, se tiene la oportunidad de entrar a indagar con el cliente las razones de sus bajas adquisiciones, las cuales pueden ser pérdida de interés en el producto, malestar con la atención online u offline, o sentirse interesado por otra línea de productos que quizá no se tenga disponible; pero que se puede entrar a analizar la posibilidad de suplir esa necesidad, claro está sin salir de la normatividad legal vigente en cuanto a productos permitidos a manejar dentro de los establecimientos farmacéuticos.
+                p Por ejemplo, si ya se conoce los patrones de compra del cliente X y durante varios días esos patrones cambian, se tiene la oportunidad de entrar a indagar con el cliente las razones de sus bajas adquisiciones, las cuales pueden ser pérdida de interés en el producto, malestar con la atención <i>online</i> u <i>offline</i>, o sentirse interesado por otra línea de productos que quizá no se tenga disponible; pero que se puede entrar a analizar la posibilidad de suplir esa necesidad, claro está sin salir de la normatividad legal vigente en cuanto a productos permitidos a manejar dentro de los establecimientos farmacéuticos.
 
                 p Tener una buena relación con los clientes y estar en constante contacto con ellos es una estrategia vital de fidelización de clientes, que además sirve para identificar nuevas necesidades de productos y servicios.
 
@@ -48,7 +48,7 @@
 
                 p El conocer a los clientes y estar en constante comunicación con ellos permite evidenciar el rendimiento del recurso humano que labora en el establecimiento y, así mismo, brinda la oportunidad de corregir errores y perfeccionar el servicio.
 
-                p Todo el equipo de trabajo que labora en el establecimiento debe estar enterado de todos los resultados que genere el seguimiento de marketing y ventas y de igual manera, debe ser constantemente capacitado en los productos y servicios, todo esto con el fin de potencializar las ventas y minimizar o erradicar los problemas.
+                p Todo el equipo de trabajo que labora en el establecimiento debe estar enterado de todos los resultados que genere el seguimiento de <i>marketing</i> y ventas y de igual manera, debe ser constantemente capacitado en los productos y servicios, todo esto con el fin de potencializar las ventas y minimizar o erradicar los problemas.
 
               .col-md-4
                 figure
@@ -56,9 +56,9 @@
 
 
     .row.mb-5
-      p Al realizar el seguimiento al marketing, venta de productos y servicios las métricas muestran cómo es el rendimiento de las ventas y el futuro crecimiento del negocio.
+      p Al realizar el seguimiento al <i>marketing</i>, venta de productos y servicios las métricas muestran cómo es el rendimiento de las ventas y el futuro crecimiento del negocio.
 
-      p A continuación se mencionan las métricas más relevantes en el seguimiento del marketing y ventas:
+      p A continuación se mencionan las métricas más relevantes en el seguimiento del <i>marketing</i> y ventas:
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -79,8 +79,8 @@
               figure
                 img(src='@/assets/curso/temas/tema9/img5.svg', alt='Imágen decorativa').img4-7_tm9
 
-          h4 Email
-          p El correo electrónico o email es uno de los canales de comunicación asincrónica más útil a nivel empresarial y por medio de este se puede realizar un muy buen seguimiento del marketing y ventas de productos y servicios.
+          h4 <i>email</i>
+          p El correo electrónico o <i>email</i> es uno de los canales de comunicación asincrónica más útil a nivel empresarial y por medio de este se puede realizar un muy buen seguimiento del <i>marketing</i> y ventas de productos y servicios.
 
           p La manera correcta de usarlo como herramienta de seguimiento es enviando un correo al destinatario cada vez que ingresa a la página web de la empresa o cuando se desea comunicar con el cliente y, por sus ocupaciones no es fácil hacerlo por otro medio.
 
@@ -94,7 +94,7 @@
                 img(src='@/assets/curso/temas/tema9/img6.svg', alt='Imágen decorativa').img4-7_tm9
 
           h4 Tasa de conversión
-          p Esta métrica es útil porque permite comparar durante cierto periodo de tiempo si las ventas han aumentado o por el contrario, han disminuido. La tasa de conversión se puede fragmentar por producto, grupo de ventas, plan de marketing, etc.
+          p Esta métrica es útil porque permite comparar durante cierto periodo de tiempo si las ventas han aumentado o por el contrario, han disminuido. La tasa de conversión se puede fragmentar por producto, grupo de ventas, plan de <i>marketing</i>, etc.
 
           p La tasa de conversión se mide mediante la siguiente fórmula:
 
