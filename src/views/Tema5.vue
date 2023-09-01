@@ -13,9 +13,9 @@
           img(src='@/assets/curso/temas/tema5/img1.svg', alt='Imágen decorativa')
       
       .col-lg-8
-        p Este es un concepto propio del entorno del marketing y de la economía de la organización, que abarca el posicionamiento de la empresa en un mercado y cómo lo perciben los clientes, la competencia y el resto de las personas que conozcan su actividad económica y la manera en cómo la llevan a cabo.
+        p Este es un concepto propio del entorno del <i>marketing</i> y de la economía de la organización, que abarca el posicionamiento de la empresa en un mercado y cómo lo perciben los clientes, la competencia y el resto de las personas que conozcan su actividad económica y la manera como la llevan a cabo.
 
-        p Por medio de la imagen corporativa las empresas son identificadas; pero de la excelencia de la construcción de esta las hace diferenciarse, ser reconocidas y atractivas en el mercado, por lo cual la construcción de una imagen corporativa sólida y notable es un excelente mecanismo para incrementar la rentabilidad y tener mejor desempeño en las ventas de los productos y los servicios. Todo esto se logra, por lo general, con una serie de estrategias de marketing y un plan estratégico.
+        p Por medio de la imagen corporativa las empresas son identificadas; pero de la excelencia de la construcción de esta las hace diferenciarse, ser reconocidas y atractivas en el mercado, por lo cual la construcción de una imagen corporativa sólida y notable es un excelente mecanismo para incrementar la rentabilidad y tener mejor desempeño en las ventas de los productos y los servicios. Todo esto se logra, por lo general, con una serie de estrategias de <i>marketing</i> y un plan estratégico.
 
       p.mt-5 La imagen corporativa está conformada por:
 
@@ -31,7 +31,7 @@
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/temas/tema5/img3.svg' alt='Imágen decorativa')
-        h5.text-center <h4 style= "color:#12263F;">Nombre y naturaleza de los productos</h4>
+        h5.text-center.mt-4 <h4 style= "color:#12263F;">Nombre y naturaleza de los productos</h4>
 
       .tarjeta.color-acento-contenido
         .row.justify-content-center.mb-3
@@ -43,13 +43,13 @@
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/temas/tema5/img5.svg' alt='Imágen decorativa')
-        h5.text-center.mt-4 <h4 style= "color:#12263F;">Lemas y jingles publicitarios</h4>
+        h5.text-center.mt-4 <h4 style= "color:#12263F;">Lemas y <i>jingles</i> publicitarios</h4>
 
       .tarjeta.color-acento-contenido
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/temas/tema5/img6.svg' alt='Imágen decorativa')
-        h5.text-center.mt-4 <h4 style= "color:#12263F;">Plataformas online y página web</h4>
+        h5.text-center.mt-4 <h4 style= "color:#12263F;">Plataformas <i>online</i> y página web</h4>
 
       .tarjeta.color-acento-contenido
         .row.justify-content-center.mb-3

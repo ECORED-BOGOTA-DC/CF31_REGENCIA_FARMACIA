@@ -59,7 +59,7 @@
               .row.mt-4
                 .col-lg-1
                 .col-lg-11
-                  h4 (Lamb, Hair y McDaniel, 2006, p. 484).
+                  h4 - Lamb, Hair y McDaniel, 2006, p. 484.
 
 
           .col-lg-7
@@ -68,7 +68,7 @@
 
 
     .row.mb-5
-      p La comunicación en marketing está compuesta por:
+      p La comunicación en <i>marketing</i> está compuesta por:
 
     .row.justify-content-center.align-items-center.mb-5
       TabsA.color-acento-contenido
@@ -86,7 +86,7 @@
         .tarjeta.tarjeta-azul5.p-4(titulo="Promoción de venta")
           .row
             .col-lg-7
-              p Esta estrategia tiene como objetivo primordial entrar en contacto de manera personal con los <i>targets group</i> para informar todas las características del producto o del servicio que tiene el establecimiento. Los objetivos puntuales de esta estrategia son lograr que los consumidores ensayen el producto, provocar aumento en la cantidad y la frecuencia de consumo, robustecer la imagen del producto o del servicio mismo y lograr clientes fieles. 
+              p Esta estrategia tiene como objetivo primordial entrar en contacto de manera personal con los <i>target group</i> para informar todas las características del producto o del servicio que tiene el establecimiento. Los objetivos puntuales de esta estrategia son lograr que los consumidores ensayen el producto, provocar aumento en la cantidad y la frecuencia de consumo, robustecer la imagen del producto o del servicio mismo y lograr clientes fieles. 
 
             .col-lg-5
               figure
@@ -107,7 +107,7 @@
           img(src='@/assets/curso/temas/tema4/img7.svg', alt='Imágen decorativa')
 
       .col-lg-8
-        p El <i>Customer Relationship Management</i> CRM en español, traduce gestión de la relación con el cliente. Es un término que aparece en 1960 por dos grandes exponentes del management Peter Druker y Theodore Levitt quienes afirman que <b style= "color:#00BCD4;">“el verdadero negocio de toda empresa es hacer clientes, mantenerlos y maximizar su rentabilidad”</b> (Drucker y Levitt, citado por Curry, 2002, p.9).
+        p El Customer Relationship Management CRM en español, traduce gestión de la relación con el cliente. Es un término que aparece en 1960 por dos grandes exponentes del <i>management</i> Peter Druker y Theodore Levitt quienes afirman que <b style= "color:#00BCD4;">“el verdadero negocio de toda empresa es hacer clientes, mantenerlos y maximizar su rentabilidad”</b> (Drucker y Levitt, citado por Curry, 2002, p.9).
 
         p El CRM está dentro de la estrategia de la comunicación de relaciones públicas; pero de una manera mucho más profunda, ya que busca ganarse la confianza de los clientes, lo que termina convirtiéndolos en clientes fieles. Su método de acción es tipo tendero de barrio, ya que es quien conoce al cliente a profundidad, es decir, sabe su nombre, con quién vive y los nombres de los integrantes de su familia, si trabaja o no, los caprichos en el empaque de los productos, entre otros.
 
@@ -115,7 +115,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
-        p En una droguería o farmacia–droguería no resulta fácil llegar a una relación con el cliente hasta el punto del tendero; pero sí se pueden implementar instrumentos que permitan un acercamiento mayor con el cliente, <b>por ejemplo, una base de datos completa que no solo se limite al nombre, el teléfono y la dirección, sino también datos como preferencias de marcas, hobbies, etc,</b> de manera que se creen ventajas y valores agregados en la atención.
+        p En una droguería o farmacia–droguería no resulta fácil llegar a una relación con el cliente hasta el punto del tendero; pero sí se pueden implementar instrumentos que permitan un acercamiento mayor con el cliente, <b>por ejemplo, una base de datos completa que no solo se limite al nombre, el teléfono y la dirección, sino también datos como preferencias de marcas, <i>hobbies</i>, etc,</b> de manera que se creen ventajas y valores agregados en la atención.
 
         p El CRM además de todas las características anteriormente descritas, también engloba la administración de la interacción con los clientes.
 
@@ -132,7 +132,7 @@
           .tarjeta.tarjeta-azul6
             .p-4
               h4.text-center I. CRM operacional
-              p Este tiene como propósito que las operaciones rutinarias se lleven a cabo de una manera mucho más eficiente, como son las llamadas, las actividades de servicio y de apoyo.
+              p Este tiene como propósito que las operaciones rutinarias, tales como llamadas y actividades de servicio y apoyo, se lleven a cabo de una manera mucho más eficiente.
 
       .col-lg-4
         .tarjeta-avatar
@@ -148,7 +148,7 @@
           .tarjeta.tarjeta-azul6
             .p-4
               h4.text-center III. CRM de colaboración
-              p Este tiene como propósito brindar a los clientes instrumentos que les permitan estar en comunicación con la empresa y entre ellos mismos, como por ejemplo, chats, email, etc.
+              p Este tiene como propósito brindar a los clientes instrumentos que les permitan estar en comunicación con la empresa y entre ellos mismos, como por ejemplo, chats, <i>email</i>, etc.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8

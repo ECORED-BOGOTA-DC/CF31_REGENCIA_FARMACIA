@@ -8,7 +8,7 @@
       h1 Estrategias de <i>marketing</i>
 
     .row.justify-content-center.align-items-center.mb-5
-      p Como se mencionó anteriormente, las estrategias de mercadeo se desarrollan desde el marketing mix, el cual está basado en cuatro variables que son denominadas las 4Ps. A continuación se describe cada una de estas variables:
+      p Como se mencionó anteriormente, las estrategias de mercadeo se desarrollan desde el <i>marketing mix</i>, el cual está basado en cuatro variables que son denominadas las 4 Ps. A continuación se describe cada una de estas variables:
 
     .row.justify-content-center.align-items-center.mb-5
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-azul3")
@@ -16,7 +16,7 @@
           .col-md-7.mb-4.mb-md-0
             p Un producto es una mezcla de características tangibles como el color del empaque e intangibles como los beneficios, este puede otorgar que el cliente o consumidor considera que tiene (un bien o un servicio) para complacer su necesidad, por ejemplo, los medicamentos son productos y la inyectología es un servicio.
 
-            p Teniendo presente que los productos tienen un ciclo de vida que se conforma por cuatro etapas (nacimiento, crecimiento, fase estable y decrecimiento), la estrategia de marketing debe tener presente la etapa en la que se encuentre el producto. Estas estrategias se encuentran  enfocadas 100% al producto, por lo cual consiste desde el laboratorio fabricante dar un valor agregado a este, de manera que beneficie al cliente, por ejemplo, cuando el laboratorio cambia la forma farmacéutica de tableta a cápsula blanda para mejor absorción y tolerancia del paciente al medicamento.
+            p Teniendo presente que los productos tienen un ciclo de vida que se conforma por cuatro etapas (nacimiento, crecimiento, fase estable y decrecimiento), la estrategia de <i>marketing</i> debe tener presente la etapa en la que se encuentre el producto. Estas estrategias se encuentran  enfocadas 100% en el producto, por lo cual consisten en que desde el laboratorio fabricante se de un valor agregado a este, de manera que beneficie al cliente, por ejemplo, cuando el laboratorio cambia la forma farmacéutica de tableta a cápsula blanda para mejor absorción y tolerancia del paciente al medicamento.
         
           .col-md-5
             figure
@@ -36,21 +36,21 @@
 
           .col-md-6
             .tarjeta.tarjeta-morada.p-4.mb-3
-              p.mb-0 Venta personalizada: es cuando un representante de la marca interviene al cliente de forma directa para darle a conocer el producto.
+              p.mb-0 #[b Venta personalizada:] es cuando un representante de la marca interviene al cliente de forma directa para darle a conocer el producto.
 
             .tarjeta.tarjeta-morada.p-4.mb-3
-              p.mb-0 Publicidad: no hay intervención directa con el cliente y se realiza por medios de comunicación masivos como la televisión, la radio, Internet o periódicos.
+              p.mb-0 #[b Publicidad:] no hay intervención directa con el cliente y se realiza por medios de comunicación masivos como la televisión, la radio, Internet o periódicos.
 
           .col-md-6
             .tarjeta.tarjeta-morada.p-4.mb-3
-              p.mb-0 Promoción de ventas: es una técnica que funciona como incentivo para el cliente y que no tiene que ver con las características propias del producto, por ejemplo, cuando el laboratorio fabricante pone 50 capsulas más a la presentación y que el cliente solo pague por la cantidad original, es decir, si el frasco es *100, el cliente encuentra 150 cápsulas; pero solo paga las 100, o por la compra de la presentación grande lleve una pequeña, etc.
+              p.mb-0 #[b Promoción de ventas:] es una técnica que funciona como incentivo para el cliente y que no tiene que ver con las características propias del producto, por ejemplo, cuando el laboratorio fabricante pone 50 cápsulas más a la presentación y que el cliente solo pague por la cantidad original, es decir, si el frasco contiene 100, el cliente encuentra 150 cápsulas; pero solo paga las 100, o por la compra de la presentación grande lleve una pequeña, etc.
 
           .tarjeta.tarjeta-morada.p-4.mb-3
-            p.mb-0 Relaciones públicas: hacen parte de la comunicación que se entabla con clientes puntuales, por ejemplo, las charlas sobre el manejo de los medicamentos pediátricos, en este caso, la promoción está directamente enfocada para padres de hijos pequeños.
+            p.mb-0 #[b Relaciones públicas:] hacen parte de la comunicación que se entabla con clientes puntuales, por ejemplo, las charlas sobre el manejo de los medicamentos pediátricos, en este caso, la promoción está directamente enfocada para padres de hijos pequeños.
 
         .row(titulo="Plaza")
           .col-md-7.mb-4.mb-md-0
-            p Es el establecimiento en el cual el cliente final puede conseguir sus productos. En este caso la estrategia de marketing y la distribución están enfocadas en ofertar los productos y servicios a través de llamadas telefónicas, domicilio, Internet, etc.
+            p Es el establecimiento en el cual el cliente final puede conseguir sus productos. En este caso la estrategia de <i>marketing</i> y la distribución están enfocadas en ofertar los productos y servicios a través de llamadas telefónicas, domicilio, Internet, etc.
         
           .col-md-5
             figure
