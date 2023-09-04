@@ -9,22 +9,22 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-4.col-lg-1
-        figure
+        figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema7/img1.svg', alt='Imágen decorativa')
 
       .col-lg-11
-        p Recuerde que el cliente en salud es la persona que adquiere un servicio que necesita o desea para sí mismo o para otra persona. Es necesario recalcar que el usuario es el motivo principal por el que se crean las instituciones de salud.
+        p(data-aos="fade-left") Recuerde que el cliente en salud es la persona que adquiere un servicio que necesita o desea para sí mismo o para otra persona. Es necesario recalcar que el usuario es el motivo principal por el que se crean las instituciones de salud.
 
-        p En el diario vivir de las instituciones se maneja diversidad o tipos de clientes, que si se diferencian sus rasgos o características será más fácil saber cómo se deben tratar.
+        p(data-aos="fade-left") En el diario vivir de las instituciones se maneja diversidad o tipos de clientes, que si se diferencian sus rasgos o características será más fácil saber cómo se deben tratar.
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade-left")
       p Los clientes se pueden clasificar en:
 
-    .row.bg-titulo4.align-items-center.p-1.mb-5
+    .row.bg-titulo4.align-items-center.p-1.mb-5(data-aos="fade-right")
       h3.my-3 Cliente según su nivel de fidelización
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-3
         figure
           img(src='@/assets/curso/temas/tema7/img2.svg', alt='Imágen decorativa').img1-tm7
@@ -42,7 +42,7 @@
 
               p.mb-0 #[b Clientes-embajadores:] son los clientes frecuentes que además hacen propaganda con sus conocidos sobre la calidad los productos.
 
-    .row.bg-titulo4.align-items-center.p-1.mb-5
+    .row.bg-titulo4.align-items-center.p-1.mb-5(data-aos="fade-right")
       h3.my-3 Cliente según su comportamiento
 
 
@@ -118,11 +118,11 @@
               
           p.text-center #[b Cliente ocupado:] desde el inicio su saludo va acompañado de un “cuento con poco tiempo”, suele ser impaciente y querer que lo atiendan de inmediato.
 
-    .row.bg-titulo4.align-items-center.p-1.mb-5
+    .row.bg-titulo4.align-items-center.p-1.mb-5(data-aos="fade-right")
       h3.my-3 Clientes en función de su satisfacción
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-down")
       .col-lg-10
         .tarjeta.tarjeta-morada.p-4
           .row

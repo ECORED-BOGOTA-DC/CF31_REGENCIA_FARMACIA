@@ -7,7 +7,7 @@
         span 2
       h1 Presupuesto de <i>marketing</i>
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade-left")
       p La ejecución de las estrategias de mercadeo requiere recursos económicos que deben estar claros y detallados, y a ese detalle es al que se llama presupuesto de <i>marketing</i>. La determinación el presupuesto se puede ver intermediada por factores como:
 
     .row.justify-content-center.align-items-center.mb-5
@@ -61,10 +61,10 @@
                 img(src='@/assets/curso/temas/tema2/img11.svg', alt='Imágen decorativa')
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       p.mb-5 Definir el presupuesto de <i>marketing</i> es importante por las siguientes razones, ver figura.
 
-      .titulo-sexto.color-acento-contenido.mb-5
+      .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
         h5 Figura 1.
         br
         i.mb-0 Importancia del presupuesto
@@ -73,11 +73,11 @@
         figure
           img(src='@/assets/curso/temas/tema2/img12.png', alt='Figura 1. que expone las razones de definir el presupuesto que son:<br>1. Permite considerar los ingresos para futuras inversiones, créditos, inventarios, etc.<br>2. Contribuye a la coherencia entre recursos y objetivos.<br>3. Sirve como guía en las actividades de marketing.<br>4. Garantiza que las actividades sean acordes al plan.<br>5. Establece un proceso de evaluación de resultados verdaderos con los resultados esperados.<br>6. Exige al seguimiento y la creación de nuevos objetivos durante todo el proceso.')      
 
-    .row.bg-titulo1.align-items-center.p-1.mb-4
+    .row.bg-titulo1.align-items-center.p-1.mb-4(data-aos="fade-right")
       h3.my-3 Métodos para la elaboración del presupuesto de <i>marketing</i>
 
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       p Existen diferentes métodos para elaborar el presupuesto de <i>marketing</i> a continuación se mencionan los principales:
 
     .row.justify-content-center.align-items-center.mb-5
@@ -113,10 +113,10 @@
           p.text-center.mb-0 En este método se establece el alcance de la promoción del producto o servicio, por lo cual se deben tener objetivos claros, se deben determinar las tareas para el logro de dichos objetivos y se deben promediar los costos de la ejecución de las tareas. 
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       p La siguiente tabla es un ejemplo de la distribución del presupuesto de <i>marketing</i>.
 
-    .titulo-sexto.color-acento-contenido.mb-5
+    .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
       h5 Tabla 1.
       br
       i.mb-0 Ejemplo de distribución de presupuesto de <i>marketing</i>.
@@ -233,18 +233,18 @@
               <th colspan="1">100%</th>
 
 
-    .row.bg-titulo2.align-items-center.p-1.mb-5
+    .row.bg-titulo2.align-items-center.p-1.mb-5(data-aos="fade-right")
       h3.my-3 Análisis del presupuesto
 
     .row.justify-content-center.align-items-center.mb-5
       .col-6.col-lg-1
-        figure
+        figure(data-aos="fade-down-right")
           img(src='@/assets/curso/temas/tema2/img13.svg', alt='Imágen decorativa')       
 
-      .col-lg-5
+      .col-lg-5(data-aos="fade-down")
         p Este análisis se realiza por medio de un indicador que permite a la empresa identificar cuál será la inversión por realizar para ejecutar el plan de <i>marketing</i>.
 
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left")
         .tarjeta-azul2.p-4
           .row.justify-content-center.align-items-center
             .col-lg-5

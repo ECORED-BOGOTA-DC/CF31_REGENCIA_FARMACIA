@@ -7,10 +7,10 @@
         span 10
       h1 Ciclo de vida del producto
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade-left")
       p Finalmente, recuerde que los productos tienen un ciclo de vida que se divide en cuatro fases:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-down")
       ImagenInfografica.color-acento-botones
         template(v-slot:imagen)
           figure

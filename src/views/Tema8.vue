@@ -10,15 +10,15 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
-        figure
+        figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema8/img1.svg', alt='Imágen decorativa')
 
       .col-lg-8
-        p La promoción de productos y servicios en los establecimientos farmacéuticos se lleva a cabo mediante unas estrategias planificadas e implementadas; pero que requieren de control y seguimiento con el fin de determinar si se están logrando los objetivos planteados o por el contrario, ameritan mejoras.
+        p(data-aos="fade-left") La promoción de productos y servicios en los establecimientos farmacéuticos se lleva a cabo mediante unas estrategias planificadas e implementadas; pero que requieren de control y seguimiento con el fin de determinar si se están logrando los objetivos planteados o por el contrario, ameritan mejoras.
 
-        p En el momento de verificar los resultados obtenidos que se van elaborando se hace necesario entrar a analizar cuáles han sido las causas clave que han sido asertivas y cuáles son los errores en práctica que se han cometido, de manera que desde ambas perspectivas se tomen las medidas de control pertinentes.
+        p(data-aos="fade-left") En el momento de verificar los resultados obtenidos que se van elaborando se hace necesario entrar a analizar cuáles han sido las causas clave que han sido asertivas y cuáles son los errores en práctica que se han cometido, de manera que desde ambas perspectivas se tomen las medidas de control pertinentes.
 
-        p El control de un proyecto de promoción y venta se lleva a cabo con el fin de determinar si las tácticas de <i>marketing</i> están funcionando o no. Por lo cual aplicar los siguientes puntos genera respuestas asertivas sobre las tácticas implementadas:
+        p(data-aos="fade-left") El control de un proyecto de promoción y venta se lleva a cabo con el fin de determinar si las tácticas de <i>marketing</i> están funcionando o no. Por lo cual aplicar los siguientes puntos genera respuestas asertivas sobre las tácticas implementadas:
 
 
     .bg-fondo1
@@ -41,12 +41,12 @@
               h3 Cerciorarse de la tasa de conversión de las ventas
               p Al realizar una comparación entre el cierre de las ventas anteriores y el cierre de las ventas posteriores a la promoción, las últimas deben ser mayores. Es importante tener presente que de nada sierve tener muchos leads sino se cierran bien las ventas, ya que son estas las que hacen sostenible un negocio. 
 
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
         .col-lg-8
           .cajon.color-secundario.p-4
             b.mb-0 Es necesario que estas actividades se desarrollen en ciertos intervalos de tiempo, de manera que la promoción de productos y servicios se pueda ir ajustando de forma continua y en el momento de aparecer cualquier inconveniente, este se pueda solucionar antes de que se convierta en un problema potencial que impida que se logren las metas propuestas.
 
-    .row.bg-titulo3.align-items-center.p-1.mb-5
+    .row.bg-titulo3.align-items-center.p-1.mb-5(data-aos="fade-right")
       h3.my-3 Tipos de control
 
     .row.mb-5
@@ -86,10 +86,10 @@
             figure
               img(src='@/assets/curso/temas/tema8/img5.svg', alt='Imágen decorativa') 
 
-    .row.bg-titulo4.align-items-center.p-1.mb-5
+    .row.bg-titulo4.align-items-center.p-1.mb-5(data-aos="fade-right")
       h3.my-3 Pilares del seguimiento al plan de <i>marketing</i>
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade-left")
       p El seguimiento de un plan de <i>marketing</i> tiene como eje central los siguientes pilares:
       
 

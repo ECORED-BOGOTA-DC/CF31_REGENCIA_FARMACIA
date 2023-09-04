@@ -7,7 +7,7 @@
         span 4
       h1 Técnicas de comunicación en <i>marketing</i>
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .tarjeta-amarilla.p-4
         .row.justify-content-center.align-items-center
           .col-lg-8
@@ -28,11 +28,11 @@
             figure
               img(src='@/assets/curso/temas/tema4/img1.svg', alt='Imágen decorativa')
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade-left")
       p Para que exista comunicación debe haber varios elementos, estos son:
 
 
-    .titulo-sexto.color-acento-contenido.mb-5
+    .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
       h5 Figura 2.
       br
       i.mb-0 Elementos necesarios para la comunicación
@@ -48,7 +48,7 @@
       .bg-fondo.mt-5
         .row.justify-content-center.align-items-center
           .col-lg-5
-            .tarjeta.tarjeta-azul4.p-4
+            .tarjeta.tarjeta-azul4.p-4(data-aos="flip-left")
               .row.justify-content-center.align-items-center
                 .col-2.my-4
                   figure
@@ -67,7 +67,7 @@
               img(src='@/assets/curso/temas/tema4/img3.svg', alt='Imágen decorativa').img3-tm4
 
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade-left")
       p La comunicación en <i>marketing</i> está compuesta por:
 
     .row.justify-content-center.align-items-center.mb-5
@@ -103,29 +103,29 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
-        figure
+        figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema4/img7.svg', alt='Imágen decorativa')
 
       .col-lg-8
-        p El Customer Relationship Management CRM en español, traduce gestión de la relación con el cliente. Es un término que aparece en 1960 por dos grandes exponentes del <i>management</i> Peter Druker y Theodore Levitt quienes afirman que <b style= "color:#00BCD4;">“el verdadero negocio de toda empresa es hacer clientes, mantenerlos y maximizar su rentabilidad”</b> (Drucker y Levitt, citado por Curry, 2002, p.9).
+        p(data-aos="fade-left") El Customer Relationship Management CRM en español, traduce gestión de la relación con el cliente. Es un término que aparece en 1960 por dos grandes exponentes del <i>management</i> Peter Druker y Theodore Levitt quienes afirman que <b style= "color:#00BCD4;">“el verdadero negocio de toda empresa es hacer clientes, mantenerlos y maximizar su rentabilidad”</b> (Drucker y Levitt, citado por Curry, 2002, p.9).
 
-        p El CRM está dentro de la estrategia de la comunicación de relaciones públicas; pero de una manera mucho más profunda, ya que busca ganarse la confianza de los clientes, lo que termina convirtiéndolos en clientes fieles. Su método de acción es tipo tendero de barrio, ya que es quien conoce al cliente a profundidad, es decir, sabe su nombre, con quién vive y los nombres de los integrantes de su familia, si trabaja o no, los caprichos en el empaque de los productos, entre otros.
+        p(data-aos="fade-left") El CRM está dentro de la estrategia de la comunicación de relaciones públicas; pero de una manera mucho más profunda, ya que busca ganarse la confianza de los clientes, lo que termina convirtiéndolos en clientes fieles. Su método de acción es tipo tendero de barrio, ya que es quien conoce al cliente a profundidad, es decir, sabe su nombre, con quién vive y los nombres de los integrantes de su familia, si trabaja o no, los caprichos en el empaque de los productos, entre otros.
 
-        p Aunque el CRM trabaja mucho con la atención personal, <b>se apoya de canales como el teléfono, el correo, Internet, entre otros,</b> como estrategia de valor agregado para los clientes.
+        p(data-aos="fade-left") Aunque el CRM trabaja mucho con la atención personal, <b>se apoya de canales como el teléfono, el correo, Internet, entre otros,</b> como estrategia de valor agregado para los clientes.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
-        p En una droguería o farmacia–droguería no resulta fácil llegar a una relación con el cliente hasta el punto del tendero; pero sí se pueden implementar instrumentos que permitan un acercamiento mayor con el cliente, <b>por ejemplo, una base de datos completa que no solo se limite al nombre, el teléfono y la dirección, sino también datos como preferencias de marcas, <i>hobbies</i>, etc,</b> de manera que se creen ventajas y valores agregados en la atención.
+        p(data-aos="fade-right") En una droguería o farmacia–droguería no resulta fácil llegar a una relación con el cliente hasta el punto del tendero; pero sí se pueden implementar instrumentos que permitan un acercamiento mayor con el cliente, <b>por ejemplo, una base de datos completa que no solo se limite al nombre, el teléfono y la dirección, sino también datos como preferencias de marcas, <i>hobbies</i>, etc,</b> de manera que se creen ventajas y valores agregados en la atención.
 
-        p El CRM además de todas las características anteriormente descritas, también engloba la administración de la interacción con los clientes.
+        p(data-aos="fade-right") El CRM además de todas las características anteriormente descritas, también engloba la administración de la interacción con los clientes.
 
-        p Las clases de interacción con el cliente y los procedimientos para usarlas de una forma adecuada se dividen en:
+        p(data-aos="fade-right") Las clases de interacción con el cliente y los procedimientos para usarlas de una forma adecuada se dividen en:
 
-      .col-lg-4
+      .col-lg-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema4/img8.svg', alt='Imágen decorativa')
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-down")
       .col-lg-4
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema4/img9.svg' alt='Imágen decorativa')
@@ -150,7 +150,7 @@
               h4.text-center III. CRM de colaboración
               p Este tiene como propósito brindar a los clientes instrumentos que les permitan estar en comunicación con la empresa y entre ellos mismos, como por ejemplo, chats, <i>email</i>, etc.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-8
         .cajon.color-secundario.p-4
           p.mb-0 La implementación de las estrategias en CRM con lleva a que todo el recurso humano de la empresa tenga una transformación en la actitud, ya que todos deben estar enfocados en lograr la fidelización de los clientes.

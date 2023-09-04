@@ -8,16 +8,16 @@
       h1 Imagen corporativa
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
+      .col-lg-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema5/img1.svg', alt='Imágen decorativa')
       
       .col-lg-8
-        p Este es un concepto propio del entorno del <i>marketing</i> y de la economía de la organización, que abarca el posicionamiento de la empresa en un mercado y cómo lo perciben los clientes, la competencia y el resto de las personas que conozcan su actividad económica y la manera como la llevan a cabo.
+        p(data-aos="fade-left") Este es un concepto propio del entorno del <i>marketing</i> y de la economía de la organización, que abarca el posicionamiento de la empresa en un mercado y cómo lo perciben los clientes, la competencia y el resto de las personas que conozcan su actividad económica y la manera como la llevan a cabo.
 
-        p Por medio de la imagen corporativa las empresas son identificadas; pero de la excelencia de la construcción de esta las hace diferenciarse, ser reconocidas y atractivas en el mercado, por lo cual la construcción de una imagen corporativa sólida y notable es un excelente mecanismo para incrementar la rentabilidad y tener mejor desempeño en las ventas de los productos y los servicios. Todo esto se logra, por lo general, con una serie de estrategias de <i>marketing</i> y un plan estratégico.
+        p(data-aos="fade-left") Por medio de la imagen corporativa las empresas son identificadas; pero de la excelencia de la construcción de esta las hace diferenciarse, ser reconocidas y atractivas en el mercado, por lo cual la construcción de una imagen corporativa sólida y notable es un excelente mecanismo para incrementar la rentabilidad y tener mejor desempeño en las ventas de los productos y los servicios. Todo esto se logra, por lo general, con una serie de estrategias de <i>marketing</i> y un plan estratégico.
 
-      p.mt-5 La imagen corporativa está conformada por:
+      p.mt-5(data-aos="fade-left") La imagen corporativa está conformada por:
 
 
     SlyderF(columnas="col-lg-6 col-xl-4")

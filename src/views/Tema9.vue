@@ -7,7 +7,7 @@
         span 9
       h1 Beneficios del seguimiento 
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade-left")
       p Realizar el seguimiento al plan de <i>marketing</i> trae diferentes beneficios para el establecimiento, algunos de ellos son:
     
     .bg-fondo2
@@ -56,9 +56,9 @@
 
 
     .row.mb-5
-      p Al realizar el seguimiento al <i>marketing</i>, venta de productos y servicios las métricas muestran cómo es el rendimiento de las ventas y el futuro crecimiento del negocio.
+      p(data-aos="fade-left") Al realizar el seguimiento al <i>marketing</i>, venta de productos y servicios las métricas muestran cómo es el rendimiento de las ventas y el futuro crecimiento del negocio.
 
-      p A continuación se mencionan las métricas más relevantes en el seguimiento del <i>marketing</i> y ventas:
+      p(data-aos="fade-left") A continuación se mencionan las métricas más relevantes en el seguimiento del <i>marketing</i> y ventas:
 
 
     .row.justify-content-center.align-items-center.mb-5

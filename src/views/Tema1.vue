@@ -9,16 +9,16 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-6.col-lg-1
-        figure
+        figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema1/img1.svg', alt='Imágen decorativa')
 
-      .col-lg-11
+      .col-lg-11(data-aos="fade-left")
         p La mejor manera que tiene una empresa de cualquier índole de conocer, entender, identificar las necesidades más puntuales y gustos de sus clientes es por medio del <i>marketing</i>.
 
         p Las fases de todo el proceso de <i>marketing</i> ayudan a reconocer las actividades prevalentes a realizar y, cuándo y cómo hacerlas realidad, de manera que la rentabilidad obtenida sea a gran escala. Estas fases son:
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .tarjeta.tarjeta-azul.p-4
         PasosB.color-acento-contenido
           .row(titulo="Estudiar")

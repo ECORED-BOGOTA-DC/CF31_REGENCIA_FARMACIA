@@ -9,16 +9,16 @@
 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
+      .col-lg-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema6/img1.svg', alt='Imágen decorativa')
 
       .col-lg-8
-        p Es el medio que utiliza la empresa ya sea para vender o promocionar sus productos y servicios con los consumidores, este canal funciona como plataforma publicitaria y tiene como objetivo capturar la atención tanto de las personas que ya son conocedoras de la marca como las que no. Por lo cual, es de suma importancia seleccionar el canal de venta más conveniente para lo que se busca conseguir.
+        p(data-aos="fade-left") Es el medio que utiliza la empresa ya sea para vender o promocionar sus productos y servicios con los consumidores, este canal funciona como plataforma publicitaria y tiene como objetivo capturar la atención tanto de las personas que ya son conocedoras de la marca como las que no. Por lo cual, es de suma importancia seleccionar el canal de venta más conveniente para lo que se busca conseguir.
 
-        p La proximidad entre el fabricante y el cliente está representada por el canal de ventas, ya que es por medio de este que se acerca la mercancía al consumidor de una manera eficiente y al menor costo posible.
+        p(data-aos="fade-left") La proximidad entre el fabricante y el cliente está representada por el canal de ventas, ya que es por medio de este que se acerca la mercancía al consumidor de una manera eficiente y al menor costo posible.
 
-        p Existen diferentes canales de venta y a medida que las nuevas tecnologías van creciendo se van aumentando las plataformas que permiten exhibir los productos, servicios y contactan al vendedor con el cliente. Los canales de venta se clasifican en tres funciones:
+        p(data-aos="fade-left") Existen diferentes canales de venta y a medida que las nuevas tecnologías van creciendo se van aumentando las plataformas que permiten exhibir los productos, servicios y contactan al vendedor con el cliente. Los canales de venta se clasifican en tres funciones:
 
     TabsB.color-acento-contenido
       .py-4.py-md-5(titulo="El proceso de venta" :icono="require('@/assets/curso/temas/tema6/img2.svg')")

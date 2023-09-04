@@ -7,7 +7,7 @@
         span 3
       h1 Estrategias de <i>marketing</i>
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       p Como se mencionó anteriormente, las estrategias de mercadeo se desarrollan desde el <i>marketing mix</i>, el cual está basado en cuatro variables que son denominadas las 4 Ps. A continuación se describe cada una de estas variables:
 
     .row.justify-content-center.align-items-center.mb-5
@@ -64,21 +64,21 @@
             figure
               img(src='@/assets/curso/temas/tema3/img4.svg', alt='Imágen decorativa') 
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade-left")
       p Por otra parte, existen elementos importantes dentro de la visita médica y del perfil del visitador médico que es importante tener claro:
 
-    .row.bg-titulo3.align-items-center.p-1.mb-5
+    .row.bg-titulo3.align-items-center.p-1.mb-5(data-aos="fade-right")
       h3.my-3 La visita médica
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4
+      .col-lg-4(data-aos="fade-up-right")
         figure
           img(src='@/assets/curso/temas/tema3/img5.svg', alt='Imágen decorativa')
 
       .col-lg-8
-        p Es la estrategia de mercadeo normativamente permitida para promocionar los medicamentos que solo se pueden vender bajo prescripción médica, esta estrategia es utilizada por los laboratorios fabricantes mediante los visitadores médicos que son profesionales expertos en presentar a los médicos el o los productos farmacéuticos de su industria, con el propósito de que ellos los prescriban a sus pacientes.
+        p(data-aos="fade-down-left") Es la estrategia de mercadeo normativamente permitida para promocionar los medicamentos que solo se pueden vender bajo prescripción médica, esta estrategia es utilizada por los laboratorios fabricantes mediante los visitadores médicos que son profesionales expertos en presentar a los médicos el o los productos farmacéuticos de su industria, con el propósito de que ellos los prescriban a sus pacientes.
 
-        .cajon.color-secundario.p-4.mb-3
+        .cajon.color-secundario.p-4.mb-3(data-aos="fade-left")
           p.mb-0 La visita médica se puede llevar a cabo de dos formas:
           ul.lista-ul--color.mb-0
             li
@@ -88,14 +88,14 @@
               i.fas.fa-circle.color-vineta1
               | La que se lleva a cabo a nivel intrahospitalario.
 
-        p La diferencia que se marca entre las formas de promocionar los medicamentos es el tipo de medicamentos que se promocionan y la administración al paciente. El médico en el consultorio le prescribe al paciente los medicamentos para que él los reclame o compre y se los administre él mismo, mientras que a nivel intrahospitalario el médico prescribe los medicamentos y son administrados por la enfermería.
+        p(data-aos="fade-up-left") La diferencia que se marca entre las formas de promocionar los medicamentos es el tipo de medicamentos que se promocionan y la administración al paciente. El médico en el consultorio le prescribe al paciente los medicamentos para que él los reclame o compre y se los administre él mismo, mientras que a nivel intrahospitalario el médico prescribe los medicamentos y son administrados por la enfermería.
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade-left")
       p La visita médica se debe planear muy detenidamente, puesto que tiene como objetivo primordial promocionar todas las características ventajosas y benéficas del medicamento, de tal manera que el médico lo posicione en su mente como primera alternativa de prescripción.
 
 
     .row.justify-content-center.align-items-center.mb-5
-      .tarjeta-amarilla.p-4
+      .tarjeta-amarilla.p-4(data-aos="flip-down")
         .row.justify-content-center.align-items-center
           .col-lg-1
           .col-lg-7
@@ -116,10 +116,10 @@
               img(src='@/assets/curso/temas/tema3/img6.svg', alt='Imágen decorativa').img6-tm3
 
 
-    .row.bg-titulo4.align-items-center.p-1.mb-5
+    .row.bg-titulo4.align-items-center.p-1.mb-5(data-aos="fade-right")
       h3.my-3 Perfil del cargo del visitador médico
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade-left")
       p Este perfil se encuentra delimitado por varias características que se muestran a continuación:
 
     .row.justify-content-center.align-items-center.mb-5
@@ -208,7 +208,7 @@
                 img(src='@/assets/curso/temas/tema3/img9.svg', alt='Imágen decorativa')
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       p <b style= "color:#00BCD4;">Teniendo presente que el personal elegido para la visita médica debe ser del área de la salud, el Regente de farmacia tiene cabida en ese campo laboral,</b> ya que sus conocimientos acerca de los productos farmacéuticos y la Ley 485 de 1998, por medio de la cual se reglamenta la profesión de Tecnólogo en regencia de farmacia, lo faculta para hacerlo. En Colombia la visita médica no es una carrera, ni tampoco tiene normatividad; pero los laboratorios son muy exigentes a la hora de escoger su personal, por lo cual es importante tener presente que así la parte más importante ya se tenga cubierta con el título de Regente de farmacia, si se desea postular como visitador médico lo más recomendable es realizar cursos o diplomados en este tema, los cuales son ofertados por algunas universidades del país.
 
 
