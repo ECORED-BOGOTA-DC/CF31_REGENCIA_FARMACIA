@@ -409,7 +409,7 @@ export default {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
-            'Centro de Gestión De Mercados, Logísti Información - Regional Distrito Capital',
+            'Centro de Gestión De Mercados, Logística Información - Regional Distrito Capital',
         },
         {
           nombre: 'Lina Marcela Pérez Manchego',

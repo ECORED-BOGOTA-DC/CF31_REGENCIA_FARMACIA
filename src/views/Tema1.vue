@@ -43,7 +43,7 @@
           .row(titulo="Análisis")
             .col-md-6.mb-4.mb-md-0
               h4 3. Análisis del mercado.
-              p Teniendo claro el mercado a penetrar, en esta fase se debe realizar un análisis minucioso de ese mercado, de manera que se identifiquen a mayor profundidad los posibles clientes y la competencia. Una herramienta útil en este caso es la matriz DOFA, ya que ayuda a reconocer las debilidades, oportunidades, fortalezas y amenazas del mercado a penetrar. Las oportunidades y las amenazas vienen del exterior, por lo cual no se tiene dominio sobre ellas; pero bien identificadas se les puede poner a funcionar a favor de la empresa; las debilidades y fortalezas son internas, por lo es factible tomar acción sobre estas. Es importante tener presente que esta fase es la clave para lograr el éxito esperado, ya que la toma de decisiones está soportada sobre la información obtenida. 
+              p Teniendo claro el mercado a penetrar, en esta fase se debe realizar un análisis minucioso de ese mercado, de manera que se identifiquen a mayor profundidad los posibles clientes y la competencia. Una herramienta útil en este caso es la matriz DOFA, ya que ayuda a reconocer las debilidades, oportunidades, fortalezas y amenazas del mercado a penetrar. Las oportunidades y las amenazas vienen del exterior, por lo cual no se tiene dominio sobre ellas; pero bien identificadas se les puede poner a funcionar a favor de la empresa; las debilidades y fortalezas son internas, por lo cual es factible tomar acción sobre estas. Es importante tener presente que esta fase es la clave para lograr el éxito esperado, ya que la toma de decisiones está soportada sobre la información obtenida. 
 
             .col-md-6
               figure

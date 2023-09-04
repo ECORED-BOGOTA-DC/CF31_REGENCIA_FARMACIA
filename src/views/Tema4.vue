@@ -86,7 +86,7 @@
         .tarjeta.tarjeta-azul5.p-4(titulo="Promoción de venta")
           .row
             .col-lg-7
-              p Esta estrategia tiene como objetivo primordial entrar en contacto de manera personal con los <i>target group</i> para informar todas las características del producto o del servicio que tiene el establecimiento. Los objetivos puntuales de esta estrategia son lograr que los consumidores ensayen el producto, provocar aumento en la cantidad y la frecuencia de consumo, robustecer la imagen del producto o del servicio mismo y lograr clientes fieles. 
+              p Esta estrategia tiene como objetivo primordial entrar en contacto de manera personal con los <i>target groups</i> para informar todas las características del producto o del servicio que tiene el establecimiento. Los objetivos puntuales de esta estrategia son lograr que los consumidores ensayen el producto, provocar aumento en la cantidad y la frecuencia de consumo, robustecer la imagen del producto o del servicio mismo y lograr clientes fieles. 
 
             .col-lg-5
               figure
