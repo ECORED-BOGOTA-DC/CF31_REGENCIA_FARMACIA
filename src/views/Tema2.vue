@@ -248,11 +248,11 @@
         .tarjeta-azul2.p-4
           .row.justify-content-center.align-items-center
             .col-lg-5
-              p.mb-0 𝑃𝑟𝑒𝑠𝑢𝑝𝑢𝑒𝑠𝑡𝑜 𝑑𝑒 𝑚𝑎𝑟𝑘𝑒𝑡𝑖𝑛𝑔=
+              p.mb-0 𝑃𝑟𝑒𝑠𝑢𝑝𝑢𝑒𝑠𝑡𝑜 𝑑𝑒 𝑚𝑎𝑟𝑘𝑒𝑡𝑖𝑛𝑔 =
             
             .col-lg-6
               figure
-                img(src='@/assets/curso/temas/tema2/img14.svg', alt='Imágen decorativa') 
+                img(src='@/assets/curso/temas/tema2/img14.svg', alt='Imágen decorativa').img14-tm2
 
 
 
