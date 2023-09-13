@@ -355,7 +355,7 @@ export default {
         },
         {
           nombre: 'Nelly Parra Guarín',
-          cargo: 'Adecuación instruccional',
+          cargo: 'Adecuación instruccional - 2023',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
@@ -372,13 +372,13 @@ export default {
       autores: [
         {
           nombre: 'Yuly Andrea Rey Quiñonez',
-          cargo: 'Diseño web',
+          cargo: 'Diseño web - 2023',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Manuel Felipe Echavarria Orozco',
-          cargo: 'Desarrollo Fullstack',
+          cargo: 'Desarrollo Fullstack - 2023',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },

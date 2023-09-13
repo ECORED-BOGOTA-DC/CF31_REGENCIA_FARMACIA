@@ -43,7 +43,7 @@
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/temas/tema5/img5.svg' alt='Imágen decorativa')
-        h5.text-center.mt-4 <h4 style= "color:#12263F;">Lemas y <i>jingles</i> publicitarios</h4>
+        h5.text-center.mt-4 <h4 style= "color:#12263F;">Lemas y <em>jingles</em> publicitarios</h4>
 
       .tarjeta.color-acento-contenido
         .row.justify-content-center.mb-3
