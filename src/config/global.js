@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Promoción y seguimiento a los productos farmacéuticos',
     descripcionCurso:
-      'En este componente formativo se abordan los conocimientos de la competencia “Lanzar la promoción comercial según objetivos y herramientas promocionales” para aprender a realizar la promoción y venta de productos farmacéuticos, teniendo en cuenta las estrategias de mercadeo diseñadas y aplicar las herramientas pertinentes que permitan verificar si las estrategias implementadas en la promoción y venta de productos farmacéuticos están dando los resultados esperados.',
+      'En este componente formativo se abordan los conocimientos relacionados con la promoción y venta de productos famacéuticos, teniendo en cuenta las estrategias de mercadeo diseñadas y aplicadas al proceso, las cuales permiten verificar si las estrategias implementadas están dando los resultados esperados.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -355,7 +355,7 @@ export default {
         },
         {
           nombre: 'Nelly Parra Guarín',
-          cargo: 'Adecuación instruccional - 2023',
+          cargo: 'Adecuación instruccional',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
@@ -372,13 +372,13 @@ export default {
       autores: [
         {
           nombre: 'Yuly Andrea Rey Quiñonez',
-          cargo: 'Diseño web - 2023',
+          cargo: 'Diseño web',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Manuel Felipe Echavarria Orozco',
-          cargo: 'Desarrollo Fullstack - 2023',
+          cargo: 'Desarrollo Fullstack',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
@@ -413,7 +413,8 @@ export default {
         },
         {
           nombre: 'Lina Marcela Pérez Manchego',
-          cargo: 'Validación de recursos educativos digitales',
+          cargo:
+            'Validación de recursos educativos digitales y vinculación al LMS',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
