@@ -235,9 +235,11 @@
       .col-lg-6(data-aos="fade-left")
         .tarjeta-azul2.p-4
           .row.justify-content-center.align-items-center
-            .col-lg-5
-              p.mb-0 Presupuesto de #[em marketing] =
-            .col-lg-6
+            .col-5.px-0
+              p.mb-0 Presupuesto de #[em marketing]
+            .col-1.px-0
+              p.mb-0 =
+            .col-6.px-0
               figure
                 img(src='@/assets/curso/temas/tema2/img14.svg', alt='Imágen decorativa').img14-tm2
 
