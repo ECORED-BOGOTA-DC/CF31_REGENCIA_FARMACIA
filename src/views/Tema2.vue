@@ -77,31 +77,28 @@
           .tarjeta-numerada__numero
             .h2 1
           h5.text-center.ps-1 De porcentaje de ventas 
-          p.text-center Tiene que ver con el análisis a la cantidad de dinero invertido en publicidad y promoción por las empresas productivas.
+          p.text-center.ps-1 Tiene que ver con el análisis a la cantidad de dinero invertido en publicidad y promoción por las empresas productivas.
 
       .col-md-6.col-xl.mb-4.mb-xl-0(data-aos="flip-right")
         .tarjeta-numerada.h-100.color-acento-botones.p-4
           .tarjeta-numerada__numero
             .h2 2
-          p.text-center 
-            b De tareas 
-          p.text-center.mb-0 Se busca crear un presupuesto que sea de apoyo eficaz a todo lo que involucra la mercadotecnia. Para poder tener claro el presupuesto total requerido es necesario conocer los costos por cada área de acción de la mercadotecnia.
+          h5.text-center.ps-1 De tareas 
+          p.text-center.ps-1.mb-0 Se busca crear un presupuesto que sea de apoyo eficaz a todo lo que involucra la mercadotecnia. Para poder tener claro el presupuesto total requerido es necesario conocer los costos por cada área de acción de la mercadotecnia.
 
       .col-md-6.col-xl.mb-4.mb-xl-0(data-aos="flip-left")
         .tarjeta-numerada.h-100.color-primario.p-4
           .tarjeta-numerada__numero
             .h2 3
-          p.text-center 
-            b Competitivo
-          p.text-center.mb-0 En este método se considera la inversión que realiza la competencia en mercadotecnia y se debe comparar con la propia.
+          h5.text-center.ps-1 Competitivo
+          p.text-center.ps-1.mb-0 En este método se considera la inversión que realiza la competencia en mercadotecnia y se debe comparar con la propia.
 
       .col-md-6.col-xl.mb-4.mb-xl-0(data-aos="fade-left")
         .tarjeta-numerada.h-100.color-secundario.p-4
           .tarjeta-numerada__numero
             .h2 4
-          p.text-center 
-            b De objetivo y tarea 
-          p.text-center.mb-0 En este método se establece el alcance de la promoción del producto o servicio, por lo cual se deben tener objetivos claros, se deben determinar las tareas para el logro de dichos objetivos y se deben promediar los costos de la ejecución de las tareas. 
+          h5.text-center.ps-1 De objetivo y tarea 
+          p.text-center.ps-1.mb-0 En este método se establece el alcance de la promoción del producto o servicio, por lo cual se deben tener objetivos claros, se deben determinar las tareas para el logro de dichos objetivos y se deben promediar los costos de la ejecución de las tareas. 
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
