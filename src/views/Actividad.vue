@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-contenido
           h2 Promoción y seguimiento a los productos farmacéuticos
-        p.mb-4 Aprender conceptos para realizar la promoción y venta de productos farmacéuticos, teniendo en cuenta las herramientas pertinentes con el fin de implementar estrategias de promoción y venta
+        p.mb-4 Aprender conceptos para realizar la promoción y venta de productos farmacéuticos, teniendo en cuenta las herramientas pertinentes con el fin de implementar estrategias de promoción y venta.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
