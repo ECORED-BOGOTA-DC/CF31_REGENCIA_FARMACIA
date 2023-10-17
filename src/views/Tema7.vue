@@ -33,7 +33,7 @@
               p #[b Cliente ocasional:] sus adquisiciones no tienen una frecuencia establecida.
               p #[b Cliente de compra regular:] la mayor parte de las compras las realiza en el establecimiento; pero también hay momentos donde las adquiere en otra parte.
               p #[b Clientes de compra frecuente:] normalmente adquiere los productos del establecimiento.
-              p.mb-0 #[b Clientes-embajadores:] son los clientes frecuentes que además hacen propaganda con sus conocidos sobre la calidad los productos.
+              p.mb-0 #[b Clientes-embajadores:] son los clientes frecuentes que además hacen propaganda con sus conocidos sobre la calidad de los productos.
 
     .row.bg-titulo4.align-items-center.p-1.mb-5(data-aos="fade-right")
       h3.my-3 Cliente según su comportamiento

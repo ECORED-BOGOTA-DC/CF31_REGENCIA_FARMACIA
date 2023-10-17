@@ -27,13 +27,13 @@
               p En el momento de realizar un análisis a las ventas, estas deben haber aumentado.
             .row(data-aos="fade-right")
               h3 Preguntar al cliente
-              p Aplicar una pequeña encuesta a los clientes ya sea offline u online, donde se les pregunte dónde y por qué medio escucharon del establecimiento y cuáles son las razones por las que visitan el lugar.
+              p Aplicar una pequeña encuesta a los clientes, ya sea #[i offline] u #[i online], donde se les pregunte dónde y por qué medio escucharon del establecimiento y cuáles son las razones por las que visitan el lugar.
             .row(data-aos="fade-left")
               h3  La publicidad y promoción de los productos y servicios crean respuestas directas 
-              p Es decir, las llamadas, visitas a las redes sociales y/o físicas al establecimiento, entre otras, deben aumentar de inmediato como respuesta a la promoción que se está haciendo, además de captar leads.
+              p Es decir, las llamadas, visitas a las redes sociales y/o físicas al establecimiento, entre otras, deben aumentar de inmediato como respuesta a la promoción que se está haciendo, además de captar #[i leads].
             .row(data-aos="fade-right")
               h3 Cerciorarse de la tasa de conversión de las ventas
-              p Al realizar una comparación entre el cierre de las ventas anteriores y el cierre de las ventas posteriores a la promoción, las últimas deben ser mayores. Es importante tener presente que de nada sierve tener muchos leads sino se cierran bien las ventas, ya que son estas las que hacen sostenible un negocio. 
+              p Al realizar una comparación entre el cierre de las ventas anteriores y el cierre de las ventas posteriores a la promoción, las últimas deben ser mayores. Es importante tener presente que de nada sirve tener muchos #[i leads] si no se cierran bien las ventas, ya que son estas las que hacen sostenible un negocio. 
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
         .col-lg-8
@@ -83,7 +83,7 @@
     .row.mb-5(data-aos="fade-left")
       p.mb-0 El seguimiento de un plan de <i>marketing</i> tiene como eje central los siguientes pilares:
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.h-100.color-acento-contenido.p-4
           .tarjeta-numerada__numero
@@ -129,7 +129,7 @@
               figure
                 img(src='@/assets/curso/temas/tema8/img9.svg', alt='Imágen decorativa').img6-9_tm8
             .col-lg-8
-              h5 Control KPI’s      
+              h5 Control KPIs      
           p.text-center Durante el seguimiento al plan hay factores que sin lugar a duda no se pueden dejar de un lado y son los informes de medición en general y los medidores de desempeño, tales como cantidad de consumidores de productos o servicios, número de visitas a la página web de la empresa, cantidad de seguidores en redes sociales, entre otros.
 
 </template>

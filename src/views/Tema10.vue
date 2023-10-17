@@ -22,8 +22,8 @@
               figure
                 img(src='@/assets/curso/temas/tema10/img2.svg', alt='Imágen decorativa')
             .col-lg-9
-              h5 Lanzamiento:
-              p es el momento en el que se entra el producto al mercado.
+              h5 Lanzamiento
+              p Es el momento en el que entra el producto al mercado.
 
         .tarjeta.tarjeta-morada.p-3(x="41%" y="46%" numero="")
           .row.justify-content-center.align-items-center
@@ -31,8 +31,8 @@
               figure
                 img(src='@/assets/curso/temas/tema10/img3.svg', alt='Imágen decorativa')
             .col-lg-9
-              h5 Crecimiento:
-              p es cuando el producto es vendido de forma creciente, por lo cual requiere de mejoras.
+              h5 Crecimiento
+              p Es cuando el producto es vendido de forma creciente, por lo cual requiere de mejoras.
 
         .tarjeta.tarjeta-morada.p-3(x="62%" y="27%" numero="")
           .row.justify-content-center.align-items-center
@@ -40,8 +40,8 @@
               figure
                 img(src='@/assets/curso/temas/tema10/img4.svg', alt='Imágen decorativa')
             .col-lg-9
-              h5 Madurez:
-              p Aquí las ventas ya están estables, se minimizan los costos de producción y hay poco crecimiento en ventas. Esta esta a su vez se subdivide en madurez cíclica, que es cuando la venta de los productos es estacional (toallas higiénicas) y de madurez perpetua cuando la venta de los productos es constante y por mucho tiempo (analgésicos).
+              h5 Madurez
+              p Aquí las ventas ya están estables, se minimizan los costos de producción y hay poco crecimiento en ventas. Esta a su vez se subdivide en madurez cíclica, que es cuando la venta de los productos es estacional (toallas higiénicas) y de madurez perpetua cuando la venta de los productos es constante y por mucho tiempo (analgésicos).
 
         .tarjeta.tarjeta-morada.p-3(x="82.5%" y="53%" numero="")
           .row.justify-content-center.align-items-center
@@ -49,7 +49,7 @@
               figure
                 img(src='@/assets/curso/temas/tema10/img5.svg', alt='Imágen decorativa')
             .col-lg-9
-              h5 Declive:
+              h5 Declive
               p En esta etapa el producto pierde fuerza, por lo cual la rentabilidad baja y obliga a la empresa a tomar la decisión de continuar o no con la venta del producto.
 
 

@@ -69,7 +69,7 @@
       h3.my-3 Métodos para la elaboración del presupuesto de <i>marketing</i>
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      p.mb-0 Existen diferentes métodos para elaborar el presupuesto de <i>marketing</i> a continuación se mencionan los principales:
+      p.mb-0 Existen diferentes métodos para elaborar el presupuesto de <i>marketing</i>, a continuación, se mencionan los principales:
 
     .row.justify-content-center.mb-5
       .col-md-6.col-xl.mb-4.mb-xl-0(data-aos="fade-right")
@@ -123,25 +123,25 @@
                 <th style="width:10%">% de incidencia</th>
               tr.text-center(data-aos="fade-right")
                 <th colspan="4">Distribución</th>
-                <th colspan="1">18%</th>
+                <th colspan="1">18 %</th>
               tr.text-center(data-aos="fade-right")
                 td <b>1</b>
                 td Estudio de mercado de farmacias
                 td 650,00
                 td 5,01
-                td 2%
+                td 2 %
               tr.text-center(data-aos="fade-right")
                 td <b>2</b>
                 td Estrategia de <i>push</i> para farmacias
                 td 5.800,00
                 td 5,02
-                td 14%
+                td 14 %
               tr.text-center(data-aos="fade-right")
                 td <b>3</b>
                 td Grupos focales y reuniones con médicos
                 td 1.150,00
                 td 5,03
-                td 3%
+                td 3 %
               tr.text-center(style='background-color: #E5DFF9' data-aos="fade-right")
                 <th colspan="4">Precio</th>
                 <th colspan="1">0%</th>
@@ -150,7 +150,7 @@
                 td Elaboración de cajas para el registro de precios
                 td 110,00
                 td 5,04
-                td 0%
+                td 0 %
               tr.text-center(style='background-color: #E5DFF9' data-aos="fade-right")
                 <th colspan="4">Comunicación</th>
                 <th colspan="1">72%</th>
@@ -159,65 +159,65 @@
                 td Reunión de prelanzamiento del producto
                 td 1.675,00
                 td 5,05
-                td 4%
+                td 4 %
               tr.text-center(data-aos="fade-right")
                 td <b>6</b>
                 td Evento de lanzamiento del producto
                 td 6.200,00
                 td 5,06
-                td 15%
+                td 15 %
               tr.text-center(data-aos="fade-right")
                 td <b>7</b>
                 td Actividades de notoriedad y seguimiento
                 td 750,00
                 td 5,07
-                td 2%
+                td 2 %
               tr.text-center(data-aos="fade-right")
                 td <b>8</b>
                 td Entrega de material especializado en visita médica
                 td 4.320,00
                 td 5,08
-                td 11%
+                td 11 %
               tr.text-center(data-aos="fade-right")
                 td <b>9</b>
                 td Reuniones con sociedades médicas, auspicios, congresos y cursos
                 td 10.400,00
                 td 5,09
-                td 25%
+                td 25 %
               tr.text-center(data-aos="fade-right")
                 td <b>10</b>
                 td Actividades de <i>lobbing</i>
                 td 4.800,00
                 td 5,10
-                td 12%
+                td 12 %
               tr.text-center(data-aos="fade-right")
                 td <b>11</b>
                 td Premio para red de visita
                 td 1.600,00
                 td 5,11
-                td 4%
+                td 4 %
               tr.text-center(style='background-color: #E5DFF9' data-aos="fade-right")
                 <th colspan="2">Otra</th>
                 <th colspan="1"></th>
                 <th colspan="1"></th>
-                <th colspan="1">9%</th>
+                <th colspan="1">9 %</th>
               tr.text-center(data-aos="fade-right")
                 td <b>12</b>
                 td Capacitación a directivos
                 td 2.500,00
                 td 5,12
-                td 3%
+                td 3 %
               tr.text-center(data-aos="fade-right")
                 td <b>13</b>
                 td Capacitación para visitadores médicos
                 td 1.148,00
                 td 5,13
-                td 6%
+                td 6 %
               tr(style='background-color: #E5DFF9' data-aos="fade-right")
                 <th colspan="2">Total</th>
                 <th colspan="1">41.103,00	</th>
                 <th colspan="1"></th>
-                <th colspan="1">100%</th>
+                <th colspan="1">100 %</th>
 
 
     .row.bg-titulo2.align-items-center.p-1.mb-5(data-aos="fade-right")

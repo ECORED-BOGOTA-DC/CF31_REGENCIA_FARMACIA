@@ -15,7 +15,7 @@
         .row(titulo="Producto")
           .col-lg-7.order-lg-1.order-2
             p Un producto es una mezcla de características tangibles como el color del empaque e intangibles como los beneficios, este puede otorgar que el cliente o consumidor considera que tiene (un bien o un servicio) para complacer su necesidad, por ejemplo, los medicamentos son productos y la inyectología es un servicio.
-            p Teniendo presente que los productos tienen un ciclo de vida que se conforma por cuatro etapas (nacimiento, crecimiento, fase estable y decrecimiento), la estrategia de <i>marketing</i> debe tener presente la etapa en la que se encuentre el producto. Estas estrategias se encuentran  enfocadas 100% en el producto, por lo cual consisten en que desde el laboratorio fabricante se de un valor agregado a este, de manera que beneficie al cliente, por ejemplo, cuando el laboratorio cambia la forma farmacéutica de tableta a cápsula blanda para mejor absorción y tolerancia del paciente al medicamento.
+            p Teniendo presente que los productos tienen un ciclo de vida que se conforma por cuatro etapas (nacimiento, crecimiento, fase estable y decrecimiento), la estrategia de <i>marketing</i> debe tener presente la etapa en la que se encuentre el producto. Estas estrategias se encuentran  enfocadas 100 % en el producto, por lo cual consisten en que desde el laboratorio fabricante se dé un valor agregado a este, de manera que beneficie al cliente, por ejemplo, cuando el laboratorio cambia la forma farmacéutica de tableta a cápsula blanda para mejor absorción y tolerancia del paciente al medicamento.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema3/img1.svg', alt='Imágen decorativa') 
@@ -64,7 +64,7 @@
         figure
           img(src='@/assets/curso/temas/tema3/img5.svg', alt='Imágen decorativa')
       .col-lg-8
-        p(data-aos="fade-down-left") Es la estrategia de mercadeo normativamente permitida para promocionar los medicamentos que solo se pueden vender bajo prescripción médica, esta estrategia es utilizada por los laboratorios fabricantes mediante los visitadores médicos que son profesionales expertos en presentar a los médicos el o los productos farmacéuticos de su industria, con el propósito de que ellos los prescriban a sus pacientes.
+        p(data-aos="fade-down-left") Es la estrategia de mercadeo normativamente permitida para promocionar los medicamentos que solo se pueden vender bajo prescripción médica, esta estrategia es utilizada por los laboratorios fabricantes mediante los visitadores médicos, que son profesionales expertos en presentar a los médicos el o los productos farmacéuticos de su industria, con el propósito de que ellos los prescriban a sus pacientes.
 
         .cajon.color-secundario.p-4.mb-3(data-aos="fade-left")
           p.mb-0 La visita médica se puede llevar a cabo de dos formas:

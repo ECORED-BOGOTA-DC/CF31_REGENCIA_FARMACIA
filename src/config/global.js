@@ -276,7 +276,7 @@ export default {
     },
     {
       referencia:
-        'Da Silva, D. (2020). <i>Seguimiento de ventas: qué es y 3 pasos de cómo hacerlo bien.</i> Zendesk.',
+        'Da Silva, D. (2020). <i>Seguimiento de clientes: cómo hacer en 3 pasos prácticos.</i> Zendesk.',
       link: 'https://www.zendesk.com.mx/blog/seguimiento-ventas/',
     },
     {
